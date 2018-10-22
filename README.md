@@ -8,5 +8,8 @@ https://usa.kaspersky.com/resource-center/threats/botnet-attacks
 What is a Trojon Virus
 https://usa.kaspersky.com/resource-center/threats/trojans
 
+Hos to make a Trojan Virus
+https://usa.kaspersky.com/resource-center/threats/trojans
+
 
 - https://www.group-ib.com/blog/moneytaker
