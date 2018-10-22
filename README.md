@@ -10,6 +10,8 @@ https://usa.kaspersky.com/resource-center/threats/trojans
 
 Hos to make a Trojan Virus
 https://usa.kaspersky.com/resource-center/threats/trojans
+using Phyton
+https://www.youtube.com/watch?v=eSPLRuOezGc
 
 
 - https://www.group-ib.com/blog/moneytaker
