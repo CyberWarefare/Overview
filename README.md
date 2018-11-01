@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=eSPLRuOezGc
 
 
 - https://www.group-ib.com/blog/moneytaker
+
+The Rise of Super-Stealthy Digitally Signed Malware—Thanks to the Dark Web
+https://thehackernews.com/2017/11/malware-digital-certificate.html
