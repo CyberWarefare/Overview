@@ -30,4 +30,6 @@ Grams - First Search Engine for Underground Black Markets
  https://thehackernews.com/2014/04/grams-first-search-engine-for.html
 
 
-
+ 
+ New Android Malware Framework Turns Apps Into Powerful Spyware
+https://thehackernews.com/2018/08/android-malware-spyware.html
