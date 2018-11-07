@@ -52,3 +52,6 @@ https://www.bleepingcomputer.com/virus-removal/cryptorbit-ransomware-information
 
 CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
 https://www.bleepingcomputer.com/virus-removal/cryptodefense-ransomware-information
+
+U-Boot's Trusted Boot Validation Bypassed
+https://www.bleepingcomputer.com/news/security/u-boots-trusted-boot-validation-bypassed/
