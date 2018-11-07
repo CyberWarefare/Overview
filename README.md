@@ -60,3 +60,11 @@ Hacker Tools Top Ten
 Our Recommended Pentesting Tools and Hacking Software For 2018
 https://www.concise-courses.com/hacking-tools/top-ten/
 
+https://en.wikipedia.org/wiki/Hacking_tool
+https://www.cybersecuritymastersdegree.org/2017/11/top-ten-tools-for-cybersecurity-pros-and-black-hat-hackers/
+https://www.guru99.com/learn-everything-about-ethical-hacking-tools-and-skills.html
+https://www.darknet.org.uk/category/hacking-tools/
+https://fossbytes.com/best-hacking-tools-of-2016-windows-linux-mac-osx/
+https://www.greycampus.com/blog/information-security/top-wireless-hacking-tools
+
+
