@@ -40,3 +40,15 @@ https://www.fortinet.com/blog/threat-research/jbifrost-yet-another-incarnation-o
 
 CryptON Ransomware Installed Using Hacked Remote Desktop Services
 https://www.bleepingcomputer.com/news/security/crypton-ransomware-installed-using-hacked-remote-desktop-services/
+
+Locky Ransomware Information, Help Guide, and FAQ
+https://www.bleepingcomputer.com/virus-removal/locky-ransomware-information-help
+
+CryptoLocker Ransomware Information Guide and FAQ
+https://www.bleepingcomputer.com/virus-removal/cryptolocker-ransomware-information
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+https://www.bleepingcomputer.com/virus-removal/cryptorbit-ransomware-information
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+https://www.bleepingcomputer.com/virus-removal/cryptodefense-ransomware-information
