@@ -67,4 +67,5 @@ https://www.darknet.org.uk/category/hacking-tools/
 https://fossbytes.com/best-hacking-tools-of-2016-windows-linux-mac-osx/
 https://www.greycampus.com/blog/information-security/top-wireless-hacking-tools
 
-
+Whatsup
+https://www.linkedin.com/pulse/new-hacks-modify-whatsup-chat-ajay-upadhyay/
