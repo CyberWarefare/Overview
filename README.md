@@ -75,3 +75,7 @@ https://www.linkedin.com/pulse/new-man-in-the-disk-attack-leaves-millions-androi
 
 Github
 https://www.darkreading.com/application-security/its-time-to-take-github-threats-seriously/a/d-id/1331577
+
+
+Kraken Cryptor is able to prey on victims and gain revenue through its affiliate program, a ransomware-as-a-service (RaaS) model
+https://darkwebnews.com/dark-web/kraken-darknet-expansion/
