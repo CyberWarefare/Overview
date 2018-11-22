@@ -88,3 +88,8 @@ https://darkwebnews.com/dark-web/kraken-darknet-expansion/
 Malware market - New market
 https://www.cryptolinenews.com/2018/06/cryptocurrencies-have-given-birth-to-another-market/
 
+Mobile Network Hacking of Crypto Currencies
+https://coinfomania.com/nicholas-truglia-convicted-for-crypto-theft/?fbclid=IwAR3_1ClKPdN14F6B1hrH4UXmgMgQyjka2Aj9L0O3zLkS120hSfPmJ8Sf1VY
+
+
+
