@@ -38,6 +38,11 @@ Hackers Are Using These Tools to Reel in New Victims
 https://darkwebnews.com/hacking/hacking-tools-used-by-hackers/
 https://www.fortinet.com/blog/threat-research/jbifrost-yet-another-incarnation-of-the-adwind-rat.html
 
+
+Mining Attacks Ethereum and Tokens
+https://www.cryptolinenews.com/2018/11/ethereum-network-token-attacked-by-malicious-minting-attack/?fbclid=IwAR2C-r1X8cuy0gdkq2U91DhNvHjDjsbOtLfYRnA50bFixuFH9oB1if1TRsM
+
+
 CryptON Ransomware Installed Using Hacked Remote Desktop Services
 https://www.bleepingcomputer.com/news/security/crypton-ransomware-installed-using-hacked-remote-desktop-services/
 
