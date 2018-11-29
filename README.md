@@ -91,5 +91,6 @@ https://www.cryptolinenews.com/2018/06/cryptocurrencies-have-given-birth-to-anot
 Mobile Network Hacking of Crypto Currencies
 https://coinfomania.com/nicholas-truglia-convicted-for-crypto-theft/?fbclid=IwAR3_1ClKPdN14F6B1hrH4UXmgMgQyjka2Aj9L0O3zLkS120hSfPmJ8Sf1VY
 
-
+SamSam Randsomware 
+https://blog.malwarebytes.com/cybercrime/2018/05/samsam-ransomware-need-know/
 
