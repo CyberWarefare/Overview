@@ -94,3 +94,7 @@ https://coinfomania.com/nicholas-truglia-convicted-for-crypto-theft/?fbclid=IwAR
 SamSam Randsomware 
 https://blog.malwarebytes.com/cybercrime/2018/05/samsam-ransomware-need-know/
 
+
+GameOver ZeuS Botnet
+http://nautil.us/issue/66/clockwork/the-100-million-bot-heist?utm_source=digg&utm_medium=email
+
