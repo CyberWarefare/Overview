@@ -95,6 +95,6 @@ SamSam Randsomware
 https://blog.malwarebytes.com/cybercrime/2018/05/samsam-ransomware-need-know/
 
 
-GameOver ZeuS Botnet
+GameOver ZeuS Botnet / Evgeniy Bogachev - one of the most successful hackers
 http://nautil.us/issue/66/clockwork/the-100-million-bot-heist?utm_source=digg&utm_medium=email
 
