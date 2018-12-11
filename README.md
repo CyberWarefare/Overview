@@ -110,6 +110,7 @@ Wordfence
 https://www.wordfence.com/blog/2018/12/wordpress-botnet-attacking-wordpress/?utm_source=list&utm_medium=email&utm_campaign=120518b&_hsenc=p2ANqtz--jcl1J96VqQy3hm-sqWtfR8Nubmaca5rZOoWM7u6NaDeNnW5nGU2gBce5lCBfw93LjYx99hKfCLFWKUVqUC3VJPxZAQA&_hsmi=68097177
 
 
+Whonix or Tails?                                                                                                                   https://darkwebnews.com/anonymity/whonix-or-tails/                                                                                
 
 
 
