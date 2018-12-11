@@ -39,8 +39,11 @@ https://darkwebnews.com/hacking/hacking-tools-used-by-hackers/
 https://www.fortinet.com/blog/threat-research/jbifrost-yet-another-incarnation-of-the-adwind-rat.html
 
 
-Mining Attacks Ethereum and Tokens
+Mining Attacks Ethereum and Tokens                                                                                                   
 https://www.cryptolinenews.com/2018/11/ethereum-network-token-attacked-by-malicious-minting-attack/?fbclid=IwAR2C-r1X8cuy0gdkq2U91DhNvHjDjsbOtLfYRnA50bFixuFH9oB1if1TRsM
+A New Wave of Attacks on Ethereum Mining Rigs
+https://cryptonews.com/news/a-new-wave-of-attacks-on-ethereum-mining-rigs-3055.htm
+
 
 
 CryptON Ransomware Installed Using Hacked Remote Desktop Services
@@ -107,7 +110,6 @@ Wordfence
 https://www.wordfence.com/blog/2018/12/wordpress-botnet-attacking-wordpress/?utm_source=list&utm_medium=email&utm_campaign=120518b&_hsenc=p2ANqtz--jcl1J96VqQy3hm-sqWtfR8Nubmaca5rZOoWM7u6NaDeNnW5nGU2gBce5lCBfw93LjYx99hKfCLFWKUVqUC3VJPxZAQA&_hsmi=68097177
 
 
-A New Wave of Attacks on Ethereum Mining Rigs
-https://cryptonews.com/news/a-new-wave-of-attacks-on-ethereum-mining-rigs-3055.htm
+
 
 
