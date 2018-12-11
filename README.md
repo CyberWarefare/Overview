@@ -113,4 +113,5 @@ https://www.wordfence.com/blog/2018/12/wordpress-botnet-attacking-wordpress/?utm
 Whonix or Tails?                                                                                                                   https://darkwebnews.com/anonymity/whonix-or-tails/                                                                                
 
 
-
+New Advanced Malware Targeting Windows Computers Available on the Dark Web                                                            
+https://darkwebnews.com/hacking/malware-targeting-windows-computers/                                                                                                       
