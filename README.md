@@ -116,4 +116,9 @@ Whonix or Tails?                                                                
 New Advanced Malware Targeting Windows Computers Available on the Dark Web                                                            
 https://darkwebnews.com/hacking/malware-targeting-windows-computers/                                                                                                       
  
+     New trends                                                                                                                          
+     Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                 
+     https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe
+     
+     
      
