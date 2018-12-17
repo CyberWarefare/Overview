@@ -123,6 +123,8 @@ https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-be
 https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html                 
 https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-cryptocurrency/                                    
    
-
+ The Leaked NSA Spy Tool That Hacked the World                                                                                 
+ https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/                                                           
+ 
 
 
