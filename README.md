@@ -142,5 +142,9 @@ https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/
  https://www.wired.com/story/fancy-bear-hotel-hack/                                                                                 
  
  
+WIFI sniffers
+https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/                                                            
+
+
 
 
