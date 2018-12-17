@@ -126,5 +126,9 @@ https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-
  The Leaked NSA Spy Tool That Hacked the World                                                                                 
  https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/                                                           
  
+ Shadow Brokers                                                                                                               
+ https://en.wikipedia.org/wiki/The_Shadow_Brokers                                                                                       
+ 
+ 
 
 
