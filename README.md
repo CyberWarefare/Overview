@@ -130,6 +130,7 @@ https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-
  https://en.wikipedia.org/wiki/The_Shadow_Brokers                                                                                       
  https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1     
  https://twitter.com/shadowbrokerss                                                                                                
+ https://steemit.com/shadowbrokers/@theshadowbrokers/theshadowbrokers-monthly-dump-service-july-2017
  
  
  
