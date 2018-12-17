@@ -144,7 +144,10 @@ https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/
  
 WIFI sniffers
 https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/                                                            
-
+https://hackerfall.com/story/passive-wifi-tracking                                                                      
+              
+              
+              
 
 
 
