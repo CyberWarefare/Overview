@@ -119,6 +119,8 @@ https://darkwebnews.com/hacking/malware-targeting-windows-computers/
 
 New Trends                                                                                                                         
 Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                          
-https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe  
+https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe 
+https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html                  
+
 
 
