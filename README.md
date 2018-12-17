@@ -132,6 +132,8 @@ https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-
  https://twitter.com/shadowbrokerss                                                                                                
  https://steemit.com/shadowbrokers/@theshadowbrokers/theshadowbrokers-monthly-dump-service-july-2017
  
+ APT28 / Russia's 'Fancy Bear' Hackers                                                                                                  
+ https://www.wired.com/story/fancy-bear-hotel-hack/                                                                                 
  
  
 
