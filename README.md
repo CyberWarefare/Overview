@@ -117,7 +117,7 @@ New Advanced Malware Targeting Windows Computers Available on the Dark Web
 https://darkwebnews.com/hacking/malware-targeting-windows-computers/   
 
 
-New Trends                                                                                                                         
+New Trends                                                                                                                          
 Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                          
 https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe     
 
@@ -144,7 +144,8 @@ https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/
  
 WIFI sniffers
 https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/                                                            
-https://hackerfall.com/story/passive-wifi-tracking                                                                      
+https://hackerfall.com/story/passive-wifi-tracking                                                                     
+
               
               
               
