@@ -128,7 +128,9 @@ https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-
  
  Shadow Brokers                                                                                                               
  https://en.wikipedia.org/wiki/The_Shadow_Brokers                                                                                       
- https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1                                                                   
+ https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1     
+ https://twitter.com/shadowbrokerss                                                                                                
+ 
  
  
 
