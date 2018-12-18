@@ -125,6 +125,9 @@ https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-
 https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-cryptocurrency/  
 https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency 
 
+Pirate Bay
+https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner-make/
+
 Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
 https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/
