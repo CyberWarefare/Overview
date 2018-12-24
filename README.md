@@ -1,3 +1,16 @@
+#Research #Analysis #Advisory #Malware #Threat #Encryption #CyberSecurity #CyberArmour General Overview Cyber Warfare is a free and open source international intrusion detection and prevention advisory Cyber Security Analyst & Research organization. Analysing malware threat. Repository for code samples for Cyber Warfare against individualts, corporations and government organizations.
+
+Join our forum on Linkedin "Quantum Blockchain & Artificial Intelligence" at https://www.linkedin.com/groups/8371715/
+
+Specialities
+
+Tokens, most token based on the old ERC20 standard has design mistakes including tokens issued by the major players.
+Cryptocurrencies, many cryptocurrencies is clones of early cryptocurrencies issues. Thus they have heritages issues lurking to ermerge in the future.
+Malware, prepare for malware attack against your org. and systems.
+Open source code of major threat is free for educational purposes. Contact us for advisory. Retainer is USD 5.000 paid in advance.
+
+
+
 # Overview
 Overview of actors, tools, how they operate
 Articles
