@@ -94,6 +94,13 @@ https://www.linkedin.com/pulse/new-hacks-modify-whatsup-chat-ajay-upadhyay/
 Android
 https://www.linkedin.com/pulse/new-man-in-the-disk-attack-leaves-millions-android-phones-upadhyay/
 
+
+Windows                                                                                                                              
+Windows Torrent File Malware Can Swap Out Crypto Addresses, Researcher Warns
+https://cointelegraph.com/news/windows-torrent-file-malware-can-swap-out-crypto-addresses-researcher-warns                          
+
+
+
 Github
 https://www.darkreading.com/application-security/its-time-to-take-github-threats-seriously/a/d-id/1331577
 
