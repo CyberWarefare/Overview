@@ -152,6 +152,9 @@ Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
 https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/
 
+IOTA
+https://coinfomania.com/missing-11-million-iota-tokens-recovered-report/?fbclid=IwAR2RLRl3CDFeVK9C_7UwYtaMYe7KS3TTE5ebHsVluB3OQl0s0XkYzeGL8_c
+
    
  The Leaked NSA Spy Tool That Hacked the World                                                                                 
  https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/                                                           
