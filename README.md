@@ -134,6 +134,7 @@ Whonix or Tails?                                                                
 
 Sim Card teft                                                                                                                       
 https://www.digitaltrends.com/mobile/sim-swap-fraud-explained/
+https://coinfomania.com/20-year-old-dawson-bakies-accused-crypto-theft/?fbclid=IwAR2BKqr8NecknuA7Wyxj4a0dTA5jpnVytab5w35S91zNjDp_Ca8jBhr4Q00
 
 
 New Advanced Malware Targeting Windows Computers Available on the Dark Web                                                            
