@@ -154,7 +154,8 @@ https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner
 
 Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
-https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/
+https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/                                                 
+https://cointelegraph.com/news/new-instance-of-monero-malware-sees-cryptojackers-target-linux-users                                 
 
 IOTA
 https://coinfomania.com/missing-11-million-iota-tokens-recovered-report/?fbclid=IwAR2RLRl3CDFeVK9C_7UwYtaMYe7KS3TTE5ebHsVluB3OQl0s0XkYzeGL8_c
