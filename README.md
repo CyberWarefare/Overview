@@ -193,3 +193,5 @@ IPFS
 https://www.technadu.com/cybercriminals-cloudflares-ipfs-gateway-phishing-attacks/43456/                                       
 
 
+Deep Learing Resources                                                                                                                 
+https://www.edureka.co/blog/deep-learning-with-python/                                                                                 
