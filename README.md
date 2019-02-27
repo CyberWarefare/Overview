@@ -58,6 +58,11 @@ A New Wave of Attacks on Ethereum Mining Rigs
 https://cryptonews.com/news/a-new-wave-of-attacks-on-ethereum-mining-rigs-3055.htm
 
 
+Hacking a Blockchain vs a DApp                                                                                                      
+https://hackernoon.com/hacking-a-blockchain-vs-hacking-a-dapp-a-response-to-mike-orcutts-mit-article-7dfc6973df52                     
+
+
+
 
 CryptON Ransomware Installed Using Hacked Remote Desktop Services
 https://www.bleepingcomputer.com/news/security/crypton-ransomware-installed-using-hacked-remote-desktop-services/
