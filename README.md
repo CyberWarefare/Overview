@@ -166,7 +166,8 @@ Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
 https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/                                                 
 https://cointelegraph.com/news/new-instance-of-monero-malware-sees-cryptojackers-target-linux-users   
-https://cointelegraph.com/news/research-warns-familiar-monero-mining-malware-is-infecting-windows-systems                            
+https://cointelegraph.com/news/research-warns-familiar-monero-mining-malware-is-infecting-windows-systems                          
+https://blog.trendmicro.com/trendlabs-security-intelligence/monero-miner-malware-uses-radmin-mimikatz-to-infect-propagate-via-vulnerability/                                                                                                             
 
 
 IOTA
