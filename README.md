@@ -87,6 +87,11 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/a-closer-look-at-the
 
 Viro Botnet
 https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-with-botnet-capability-breaks-through/              
+                                                                                                                             
+ Cerber Ransomware steals bitcoin wallets                                                                             
+ https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/                  
+                                                                                                                     
+                                                                                                                             
 
 
 Hacker Tools Top Ten
