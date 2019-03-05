@@ -91,7 +91,8 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-w
  Cerber Ransomware steals bitcoin wallets                                                                             
  https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/                  
                                                                                                                      
-                                                                                                                             
+Ryyuk Ransomware (Very profitable)                             
+https://cointelegraph.com/news/research-suggests-russian-based-hackers-behind-ryuk-ransomwares-25-million-gains                                                                                                
 
 
 Hacker Tools Top Ten
