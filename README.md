@@ -189,7 +189,8 @@ https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/
 https://hackerfall.com/story/passive-wifi-tracking                                                                     
 
               
-              
+Emailsscam committed through a wide array of “sextortion” blackmail strategies, which included the weaponization of emails        
+https://bitcoinmagazine.com/articles/report-claims-that-sextortionists-absconded-with-over-300000-in-crypto-in-2018/
               
 
 Bots
