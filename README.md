@@ -82,6 +82,13 @@ https://www.bleepingcomputer.com/virus-removal/cryptodefense-ransomware-informat
 U-Boot's Trusted Boot Validation Bypassed
 https://www.bleepingcomputer.com/news/security/u-boots-trusted-boot-validation-bypassed/
 
+Locky Poser, PyLocky Ransomware                                                                                    
+https://blog.trendmicro.com/trendlabs-security-intelligence/a-closer-look-at-the-locky-poser-pylocky-ransomware/       
+
+Viro Botnet
+https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-with-botnet-capability-breaks-through/              
+
+
 Hacker Tools Top Ten
 Our Recommended Pentesting Tools and Hacking Software For 2018
 https://www.concise-courses.com/hacking-tools/top-ten/
