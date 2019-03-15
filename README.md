@@ -129,6 +129,10 @@ https://www.darkreading.com/application-security/its-time-to-take-github-threats
 Kraken Cryptor is able to prey on victims and gain revenue through its affiliate program, a ransomware-as-a-service (RaaS) model
 https://darkwebnews.com/dark-web/kraken-darknet-expansion/
 
+Monappy Wallet Provider                                                                                                      
+https://coinfomania.com/18-year-old-monacoin-theft-japan/?fbclid=IwAR3SW4HigAczkr5o9MSzVLWHnrFcsEIbXxRPFst0kAZ-i0CaTUOM4XJfpvQ       
+
+
 Malware market - New market
 https://www.cryptolinenews.com/2018/06/cryptocurrencies-have-given-birth-to-another-market/
 
