@@ -14,6 +14,11 @@ Open source code of major threat is free for educational purposes. Contact us fo
 # Overview
 Overview of actors, tools, how they operate
 Articles
+
+Facts about cryptocurrency theft methods                                                                                        
+https://www.cryptolinenews.com/industry-analysis/facts-about-cryptocurrency-theft-methods/                                       
+
+
 What is a Botnet HTTP-Botnets: The Dark Side of a Standard Protocol!
 https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets.html                                                            
 https://usa.kaspersky.com/resource-center/threats/botnet-attacks
