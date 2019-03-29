@@ -97,7 +97,13 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-w
  https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/                  
                                                                                                                      
 Ryyuk Ransomware (Very profitable)                             
-https://cointelegraph.com/news/research-suggests-russian-based-hackers-behind-ryuk-ransomwares-25-million-gains                                                                                                                                                                                                                   
+https://cointelegraph.com/news/research-suggests-russian-based-hackers-behind-ryuk-ransomwares-25-million-gains                 
+
+
+Gustuff                                                                                                                           
+https://www.bleepingcomputer.com/news/security/gustuff-android-malware-targets-100-banking-and-32-cryptocurrency-apps/                 
+                                                                                                                                  
+                                                                                                                                  
 
 Hacker Tools Top Ten
 Our Recommended Pentesting Tools and Hacking Software For 2018
