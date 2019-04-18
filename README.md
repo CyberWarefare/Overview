@@ -160,7 +160,7 @@ GameOver ZeuS Botnet / Evgeniy Bogachev - one of the most successful hackers
 http://nautil.us/issue/66/clockwork/the-100-million-bot-heist?utm_source=digg&utm_medium=email
 
 
-Inside North Korea’s Hacker Army (Lazarus Hacker Group)                                                                                                 
+Inside North Korea’s Hacker Army (Lazarus Hacker Group)                                                                                  
 https://www.bloomberg.com/news/features/2018-02-07/inside-kim-jong-un-s-hacker-army                                                
 https://coinidol.com/north-korean-lazarus/                                                                                           
 
@@ -169,6 +169,10 @@ https://coinidol.com/north-korean-lazarus/
 Inside Iran's Hacker Army                                                                                                   
 Holmium Group / APT33 Group
 https://www.marketscreener.com/MICROSOFT-CORPORATION-4835/news/Microsoft-Iranian-Hackers-Have-Hit-Hundreds-of-Companies-in-Past-Two-Years-2nd-Update-28123238/                                                                                                       
+
+
+FIN7 Hacker group
+https://darkwebnews.com/hacking/researchers-claim-hacking-group-fin7-still-on-loose/
 
 
 Wordfence                                                                                                                             
