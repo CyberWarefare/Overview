@@ -171,7 +171,7 @@ Holmium Group / APT33 Group
 https://www.marketscreener.com/MICROSOFT-CORPORATION-4835/news/Microsoft-Iranian-Hackers-Have-Hit-Hundreds-of-Companies-in-Past-Two-Years-2nd-Update-28123238/                                                                                                       
 
 
-FIN7 Hacker group
+FIN7 Hacker group (Also known to others as Cobalt Strike or Carbanak)
 https://darkwebnews.com/hacking/researchers-claim-hacking-group-fin7-still-on-loose/
 
 
