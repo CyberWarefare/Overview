@@ -173,6 +173,7 @@ https://www.marketscreener.com/MICROSOFT-CORPORATION-4835/news/Microsoft-Iranian
 
 FIN7 Hacker group (Also known to others as Cobalt Strike or Carbanak)
 https://darkwebnews.com/hacking/researchers-claim-hacking-group-fin7-still-on-loose/
+https://www.wired.com/story/fin7-carbanak-hacking-group-behind-a-string-of-big-breaches/
 
 
 Wordfence                                                                                                                             
