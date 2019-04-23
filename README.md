@@ -5,10 +5,9 @@ Join our forum on Linkedin "Quantum Blockchain & Artificial Intelligence" at htt
 Specialities
 
 Tokens, most token based on the old ERC20 standard has design mistakes including tokens issued by the major players. Learn more at https://cryptortrust.com/2018/11/20/erc20-token-design-mistakes-vs-erc223-token/                                                       
-Cryptocurrencies, many cryptocurrencies is clones of early cryptocurrencies issues. Thus they have heritages issues lurking to ermerge in the future.
-Malware, prepare for malware attack against your org. and systems.
-Open source code of major threat is free for educational purposes. Contact us for advisory. Retainer is USD 5.000 paid in advance.
-
+Cryptocurrencies, many cryptocurrencies is clones of early cryptocurrencies issues. Thus they have heritages issues lurking to ermerge in the future.                                                                                                                      
+Malware, prepare for malware attack against your org. and systems.                                                                 
+Open source code of major threat is free for educational purposes.                                                                 Contact us for advisory. Retainer is USD 5.000 paid in advance.
 
 
 # Overview
