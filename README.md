@@ -112,11 +112,13 @@ Gustuff
 https://www.bleepingcomputer.com/news/security/gustuff-android-malware-targets-100-banking-and-32-cryptocurrency-apps/           
                                                                                                                           
   
-Baldr Malware                                                                                               https://darkwebnews.com/hacking/baldr-malware-circulation-in-hacking-forums/                                              
+Baldr Malware                                                                                               https://darkwebnews.com/hacking/baldr-malware-circulation-in-hacking-forums/                                           
+
 
 
 Beapy File based mining. Most lucrative mining strategy                                                                                  
-https://bitcoinmagazine.com/articles/new-cryptojacking-campaign-infects-asia-using-more-profitable-tactics/
+https://bitcoinmagazine.com/articles/new-cryptojacking-campaign-infects-asia-using-more-profitable-tactics/                       
+https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-china
 
 
                                                                                                                                   
