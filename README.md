@@ -119,8 +119,8 @@ Baldr Malware                                                                   
 Beapy File based mining. Most lucrative mining strategy                                                                                  
 https://bitcoinmagazine.com/articles/new-cryptojacking-campaign-infects-asia-using-more-profitable-tactics/                       
 https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-china
-
-
+https://www.symantec.com/blogs/threat-intelligence/cryptojacking-modern-cash-cow
+https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-cryptojacking-modern-cash-cow-en.pdf
                                                                                                                                   
 
 Hacker Tools Top Ten
