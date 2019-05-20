@@ -72,9 +72,11 @@ https://blog.quillhash.com/potential-attack-on-ethereum-network-to-mint-gastoken
 
 
 Hacking a Blockchain vs a DApp                                                                                                      
-https://hackernoon.com/hacking-a-blockchain-vs-hacking-a-dapp-a-response-to-mike-orcutts-mit-article-7dfc6973df52                     
+https://hackernoon.com/hacking-a-blockchain-vs-hacking-a-dapp-a-response-to-mike-orcutts-mit-article-7dfc6973df52               
 
 
+Virtual Kidnapping                                                                                                          
+https://edition.cnn.com/2019/05/15/tech/virtual-kidnapping/index.html?utm_source=digg&utm_medium=email                         
 
 
 CryptON Ransomware Installed Using Hacked Remote Desktop Services
