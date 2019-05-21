@@ -137,7 +137,8 @@ https://fossbytes.com/best-hacking-tools-of-2016-windows-linux-mac-osx/
 https://www.greycampus.com/blog/information-security/top-wireless-hacking-tools
 
 WhatsApp / Whatsup
-https://www.linkedin.com/pulse/new-hacks-modify-whatsup-chat-ajay-upadhyay/
+https://www.linkedin.com/pulse/new-hacks-modify-whatsup-chat-ajay-upadhyay/                                                  
+
 
 LocalBitcoin                                                                                                                  https://bitcoinmagazine.com/articles/phishing-scam-hits-localbitcoins-clients-lose-funds/                                       
 
