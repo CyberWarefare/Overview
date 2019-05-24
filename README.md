@@ -116,7 +116,8 @@ https://www.bleepingcomputer.com/news/security/gustuff-android-malware-targets-1
   
 Baldr Malware                                                                                               https://darkwebnews.com/hacking/baldr-malware-circulation-in-hacking-forums/                                           
 
-
+Shade Ransomeware                                                                                                         
+https://threatpost.com/shade-ransomware-expands-us/145020/
 
 Beapy File based mining. Most lucrative mining strategy                                                                                  
 https://bitcoinmagazine.com/articles/new-cryptojacking-campaign-infects-asia-using-more-profitable-tactics/                       
