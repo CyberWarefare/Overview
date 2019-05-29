@@ -125,7 +125,7 @@ https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-chin
 https://www.symantec.com/blogs/threat-intelligence/cryptojacking-modern-cash-cow
 https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-cryptojacking-modern-cash-cow-en.pdf
                                                                                                                      
-Malware that mines the privacy-focused open source cryptocurrency turtlecoin (TRTL)                                                                                                                                                                     https://cointelegraph.com/news/researchers-say-50-000-servers-worldwide-infected-with-privacy-coin-cryptojacking-malware                                                                                                                     
+                                                                                                                 
 
 Hacker Tools Top Ten
 Our Recommended Pentesting Tools and Hacking Software For 2018
@@ -236,6 +236,8 @@ https://cointelegraph.com/news/new-instance-of-monero-malware-sees-cryptojackers
 https://cointelegraph.com/news/research-warns-familiar-monero-mining-malware-is-infecting-windows-systems                          
 https://blog.trendmicro.com/trendlabs-security-intelligence/monero-miner-malware-uses-radmin-mimikatz-to-infect-propagate-via-vulnerability/                                                                                                              
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/Trojan.Win32.MIMIKATZ.ADU?_ga=2.67727382.60182665.1551811519-1187802437.1551811518                                                                                                       
+
+Malware that mines the privacy-focused open source cryptocurrency turtlecoin (TRTL)                                                       https://cointelegraph.com/news/researchers-say-50-000-servers-worldwide-infected-with-privacy-coin-cryptojacking-malware               
 
 
 IOTA
