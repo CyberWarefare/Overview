@@ -124,7 +124,8 @@ https://bitcoinmagazine.com/articles/new-cryptojacking-campaign-infects-asia-usi
 https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-china
 https://www.symantec.com/blogs/threat-intelligence/cryptojacking-modern-cash-cow
 https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-cryptojacking-modern-cash-cow-en.pdf
-                                                                                                                                  
+                                                                                                                     
+Malware that mines the privacy-focused open source cryptocurrency turtlecoin (TRTL)                                                                                                                                                                     https://cointelegraph.com/news/researchers-say-50-000-servers-worldwide-infected-with-privacy-coin-cryptojacking-malware                                                                                                                     
 
 Hacker Tools Top Ten
 Our Recommended Pentesting Tools and Hacking Software For 2018
