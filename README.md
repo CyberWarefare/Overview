@@ -114,7 +114,10 @@ Gustuff
 https://www.bleepingcomputer.com/news/security/gustuff-android-malware-targets-100-banking-and-32-cryptocurrency-apps/           
                                                                                                                           
   
-Baldr Malware                                                                                               https://darkwebnews.com/hacking/baldr-malware-circulation-in-hacking-forums/                                           
+Baldr Malware                                                                                               https://darkwebnews.com/hacking/baldr-malware-circulation-in-hacking-forums/       
+
+GoldBrute
+https://thehackernews.com/2019/06/windows-rdp-brute-force.html                                                               
 
 Shade Ransomeware                                                                                                         
 https://threatpost.com/shade-ransomware-expands-us/145020/
