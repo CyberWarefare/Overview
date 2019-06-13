@@ -116,7 +116,7 @@ https://www.bleepingcomputer.com/news/security/gustuff-android-malware-targets-1
   
 Baldr Malware                                                                                               https://darkwebnews.com/hacking/baldr-malware-circulation-in-hacking-forums/       
 
-GoldBrute
+GoldBrute                                                                                                                       
 https://thehackernews.com/2019/06/windows-rdp-brute-force.html                                                               
 
 Shade Ransomeware                                                                                                         
