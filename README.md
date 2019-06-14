@@ -122,6 +122,10 @@ https://thehackernews.com/2019/06/windows-rdp-brute-force.html
 Shade Ransomeware                                                                                                         
 https://threatpost.com/shade-ransomware-expands-us/145020/
 
+Scranos Malware                                                                                                              
+https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/               
+
+
 Beapy File based mining. Most lucrative mining strategy                                                                                  
 https://bitcoinmagazine.com/articles/new-cryptojacking-campaign-infects-asia-using-more-profitable-tactics/                       
 https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-china
