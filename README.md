@@ -229,9 +229,11 @@ https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-
 https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-cryptocurrency/  
 https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency 
 
-Pirate Bay
+Pirate Bay mining Monero
 https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner-make/
-https://steemit.com/news/@runicar/pirate-mining-cryptojacking-your-cpu-to-mine-crypto-is-your-pc-under-attack-soultions-how-to-stop-it
+https://steemit.com/news/@runicar/pirate-mining-cryptojacking-your-cpu-to-mine-crypto-is-your-pc-under-attack-soultions-how-to-stop-it  
+https://hackernoon.com/how-to-block-hackers-from-mining-cryptocurrency-on-your-computer-and-smartphones-c0c485b6eae6                
+
 
 Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
