@@ -231,6 +231,7 @@ https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurr
 
 Pirate Bay
 https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner-make/
+https://steemit.com/news/@runicar/pirate-mining-cryptojacking-your-cpu-to-mine-crypto-is-your-pc-under-attack-soultions-how-to-stop-it
 
 Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
