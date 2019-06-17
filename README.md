@@ -123,7 +123,11 @@ Shade Ransomeware
 https://threatpost.com/shade-ransomware-expands-us/145020/
 
 Scranos Malware                                                                                                              
-https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/               
+https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/    
+
+
+Mokes" and "Netwire                                                                                                        
+ https://cointelegraph.com/news/report-record-breaking-coincheck-hack-perpetrated-by-virus-tied-to-russian-hackers               
 
 
 Beapy File based mining. Most lucrative mining strategy                                                                                  
