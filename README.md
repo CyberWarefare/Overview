@@ -175,7 +175,10 @@ Kraken Cryptor is able to prey on victims and gain revenue through its affiliate
 https://darkwebnews.com/dark-web/kraken-darknet-expansion/
 
 Monappy Wallet Provider                                                                                                      
-https://coinfomania.com/18-year-old-monacoin-theft-japan/?fbclid=IwAR3SW4HigAczkr5o9MSzVLWHnrFcsEIbXxRPFst0kAZ-i0CaTUOM4XJfpvQ       
+https://coinfomania.com/18-year-old-monacoin-theft-japan/?fbclid=IwAR3SW4HigAczkr5o9MSzVLWHnrFcsEIbXxRPFst0kAZ-i0CaTUOM4XJfpvQ    
+
+Phishing                                                                                                                       
+https://darknetlive.com/post/empire-phishing/                                                                                 
 
 
 Malware market - New market
