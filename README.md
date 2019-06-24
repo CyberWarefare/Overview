@@ -67,10 +67,10 @@ Wallets
 https://www.wired.com/story/blockchain-bandit-ethereum-weak-private-keys/
 
 Mining Attacks                                                                                                           
-https://www.cryptolinenews.com/2018/11/ethereum-network-token-attacked-by-malicious-minting-attack/?fbclid=IwAR2C-r1X8cuy0gdkq2U91DhNvHjDjsbOtLfYRnA50bFixuFH9oB1if1TRsM
-A New Wave of Attacks on Ethereum Mining Rigs
-https://cryptonews.com/news/a-new-wave-of-attacks-on-ethereum-mining-rigs-3055.htm                                            
-https://blog.quillhash.com/potential-attack-on-ethereum-network-to-mint-gastokens/                                               
+https://www.cryptolinenews.com/2018/11/ethereum-network-token-attacked-by-malicious-minting-attack/?fbclid=IwAR2C-r1X8cuy0gdkq2U91DhNvHjDjsbOtLfYRnA50bFixuFH9oB1if1TRsM                                                                         
+A New Wave of Attacks on Ethereum Mining Rigs                                                                                    
+https://cryptonews.com/news/a-new-wave-of-attacks-on-ethereum-mining-rigs-3055.htm                                                      
+https://blog.quillhash.com/potential-attack-on-ethereum-network-to-mint-gastokens/                                                                         
 
 
 Hacking a Blockchain vs a DApp                                                                                                      
