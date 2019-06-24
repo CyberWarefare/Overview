@@ -54,6 +54,8 @@ https://thehackernews.com/2018/08/android-malware-spyware.html
 Hackers Are Using These Tools to Reel in New Victims
 https://darkwebnews.com/hacking/hacking-tools-used-by-hackers/
 https://www.fortinet.com/blog/threat-research/jbifrost-yet-another-incarnation-of-the-adwind-rat.html
+https://darknetlive.com/post/what-to-do-when-dread-goes-down/                                                                 
+
 
 
 Ethereum and Tokens Attacks
