@@ -178,7 +178,8 @@ Monappy Wallet Provider
 https://coinfomania.com/18-year-old-monacoin-theft-japan/?fbclid=IwAR3SW4HigAczkr5o9MSzVLWHnrFcsEIbXxRPFst0kAZ-i0CaTUOM4XJfpvQ    
 
 Phishing                                                                                                                       
-https://darknetlive.com/post/empire-phishing/                                                                                 
+https://darknetlive.com/post/empire-phishing/                                                                              
+https://darknetlive.com/post/a-warning-about-darkweb-market-phishing-sites                                                       
 
 
 Malware market - New market
