@@ -30,6 +30,9 @@ https://usa.kaspersky.com/resource-center/threats/trojans
 using Phyton
 https://www.youtube.com/watch?v=eSPLRuOezGc
 
+Trojans - Vidar information-stealing Trojan / Qulab trojans                                                                   
+https://cointelegraph.com/news/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website                      
+
 
 - https://www.group-ib.com/blog/moneytaker
 
