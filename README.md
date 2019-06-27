@@ -304,3 +304,8 @@ https://www.edureka.co/blog/deep-learning-with-python/
 
 
 Hide Your IP address / Anonoumus DNS providers                                                                                           https://darkwebnews.com/anonymity/dns-providers-that-dont-log-queries/                                                    
+
+
+Fake exchanges                                                                                                             
+https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                       
+
