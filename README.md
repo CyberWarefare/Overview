@@ -53,6 +53,8 @@ Grams - First Search Engine for Underground Black Markets
  
  New Android Malware Framework Turns Apps Into Powerful Spyware
 https://thehackernews.com/2018/08/android-malware-spyware.html
+https://www.theverge.com/2019/7/10/20688885/agent-smith-android-malware-25-million-infections                                      
+
 
 Hackers Are Using These Tools to Reel in New Victims
 https://darkwebnews.com/hacking/hacking-tools-used-by-hackers/
