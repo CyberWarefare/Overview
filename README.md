@@ -254,6 +254,10 @@ https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner
 https://steemit.com/news/@runicar/pirate-mining-cryptojacking-your-cpu-to-mine-crypto-is-your-pc-under-attack-soultions-how-to-stop-it  
 https://hackernoon.com/how-to-block-hackers-from-mining-cryptocurrency-on-your-computer-and-smartphones-c0c485b6eae6                
 
+                                                                        
+Private Surveillance Is a Lethal Weapon Anybody Can Buy                                                                      
+https://www.nytimes.com/2019/07/19/opinion/private-surveillance-industry.html?action=click&module=Opinion&pgtype=Homepage&utm_source=digg&utm_medium=email                                                 
+
 
 Monero
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
