@@ -173,6 +173,9 @@ https://cointelegraph.com/news/windows-torrent-file-malware-can-swap-out-crypto-
 
 CISCO Router                                                                                                                   https://www.wired.com/story/cisco-router-bug-secure-boot-trust-anchor/                                                         
 
+Bitcoin ATM Hacks                                                                                          
+https://bravenewcoin.com/insights/bitcoin-atm-numbers-are-booming                                        
+
 
 Github
 https://www.darkreading.com/application-security/its-time-to-take-github-threats-seriously/a/d-id/1331577
