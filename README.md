@@ -22,6 +22,7 @@ What is a Botnet HTTP-Botnets: The Dark Side of a Standard Protocol!
 https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets.html                                                            
 https://usa.kaspersky.com/resource-center/threats/botnet-attacks
 
+
 What is a Trojon Virus
 https://usa.kaspersky.com/resource-center/threats/trojans
 
@@ -109,6 +110,10 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/a-closer-look-at-the
 
 Viro Botnet
 https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-with-botnet-capability-breaks-through/              
+
+Ubuntu Botnet                                                                                                           
+https://hackernoon.com/is-this-a-ubuntu-based-botnet-deploying-tor-relays-and-bridges-b4ce1a612039                              
+
                                                                                                                              
  Cerber Ransomware steals bitcoin wallets                                                                             
  https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/                  
