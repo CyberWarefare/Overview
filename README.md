@@ -327,6 +327,8 @@ https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-
 Ponzi scheme
 https://bitcoinmagazine.com/articles/did-the-plustoken-scam-cause-a-bitcoin-price-dip                                       
 https://news.8btc.com/crypto-wallet-plustoken-a-3-billion-ponzi-scheme-went-bust                                            
+https://news.8btc.com/just-vanished-wallet-tokenstore-sued-by-2100-victims                                                     
+
 
 
 
