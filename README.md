@@ -321,5 +321,13 @@ Hide Your IP address / Anonoumus DNS providers                                  
 
 
 Fake exchanges                                                                                                             
-https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                       
+https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                           
+
+
+Ponzi scheme
+https://bitcoinmagazine.com/articles/did-the-plustoken-scam-cause-a-bitcoin-price-dip                                       
+
+
+
+
 
