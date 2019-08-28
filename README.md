@@ -215,7 +215,9 @@ http://nautil.us/issue/66/clockwork/the-100-million-bot-heist?utm_source=digg&ut
 
 Inside North Korea’s Hacker Army (Lazarus Hacker Group)                                                                                  
 https://www.bloomberg.com/news/features/2018-02-07/inside-kim-jong-un-s-hacker-army                                                
-https://coinidol.com/north-korean-lazarus/                                                                                           
+https://coinidol.com/north-korean-lazarus/   
+https://thehackernews.com/2019/05/north-korean-hacking-tool.html                                                              
+
 
 
 
