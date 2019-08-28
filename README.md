@@ -33,10 +33,11 @@ https://www.youtube.com/watch?v=eSPLRuOezGc
 
 Trojans - Vidar information-stealing Trojan / Qulab trojans                                                                   
 https://cointelegraph.com/news/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website                      
-
-
-- https://www.group-ib.com/blog/moneytaker
-
+- https://www.group-ib.com/blog/moneytaker                                                                                    
+Cerberus Banking Trojan                                                                                                                 
+ https://thehackernews.com/2019/08/cerberus-android-banking-trojan.html                                                               
+ 
+                  
 The Rise of Super-Stealthy Digitally Signed Malware—Thanks to the Dark Web
 https://thehackernews.com/2017/11/malware-digital-certificate.html
 
@@ -116,7 +117,9 @@ https://hackernoon.com/is-this-a-ubuntu-based-botnet-deploying-tor-relays-and-br
 
                                                                                                                              
  Cerber Ransomware steals bitcoin wallets                                                                             
- https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/                  
+ https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/               
+ 
+  
                                                                                                                      
 Ryyuk Ransomware (Very profitable)                             
 https://cointelegraph.com/news/research-suggests-russian-based-hackers-behind-ryuk-ransomwares-25-million-gains                 
