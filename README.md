@@ -15,7 +15,9 @@ Overview of actors, tools, how they operate
 Articles
 
 Facts about cryptocurrency theft methods                                                                                        
-https://www.cryptolinenews.com/industry-analysis/facts-about-cryptocurrency-theft-methods/                                       
+https://www.cryptolinenews.com/industry-analysis/facts-about-cryptocurrency-theft-methods/   
+https://bitcoinmagazine.com/articles/how-the-plustoken-scam-absconded-with-over-1-percent-of-the-bitcoin-supply                  
+
 
 
 What is a Botnet HTTP-Botnets: The Dark Side of a Standard Protocol!
