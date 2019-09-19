@@ -38,7 +38,10 @@ https://cointelegraph.com/news/new-malware-campaign-spreads-trojans-through-clon
 - https://www.group-ib.com/blog/moneytaker                                                                                    
 Cerberus Banking Trojan                                                                                                                 
  https://thehackernews.com/2019/08/cerberus-android-banking-trojan.html                                                               
- 
+                                                                                              
+                                                                                                                                 
+RAT (Remote Access Trojan), which they named InnfiRAT                                                    
+https://bitcoinist.com/a-new-malware-can-steal-data-from-crypto-wallets/                                                                                                                 
                   
 The Rise of Super-Stealthy Digitally Signed Malware—Thanks to the Dark Web
 https://thehackernews.com/2017/11/malware-digital-certificate.html
