@@ -187,7 +187,9 @@ https://www.linkedin.com/pulse/new-man-in-the-disk-attack-leaves-millions-androi
 
 Windows                                                                                                                              
 Windows Torrent File Malware Can Swap Out Crypto Addresses, Researcher Warns
-https://cointelegraph.com/news/windows-torrent-file-malware-can-swap-out-crypto-addresses-researcher-warns                          
+https://cointelegraph.com/news/windows-torrent-file-malware-can-swap-out-crypto-addresses-researcher-warns                  
+https://www.techrepublic.com/article/nasty-botnet-uses-wannacry-exploit-to-mine-cryptocurrency-from-your-servers/             
+
 
 CISCO Router                                                                                                                   https://www.wired.com/story/cisco-router-bug-secure-boot-trust-anchor/                                                         
 
@@ -289,7 +291,9 @@ https://cointelegraph.com/news/new-instance-of-monero-malware-sees-cryptojackers
 https://cointelegraph.com/news/research-warns-familiar-monero-mining-malware-is-infecting-windows-systems                          
 https://blog.trendmicro.com/trendlabs-security-intelligence/monero-miner-malware-uses-radmin-mimikatz-to-infect-propagate-via-vulnerability/                                                                                                              
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/Trojan.Win32.MIMIKATZ.ADU?_ga=2.67727382.60182665.1551811519-1187802437.1551811518                                                                                                             
-https://github.com/search?q=smominru&type=Code                                                                       
+https://github.com/search?q=smominru&type=Code                                                                                  
+https://www.techrepublic.com/article/nasty-botnet-uses-wannacry-exploit-to-mine-cryptocurrency-from-your-servers/                
+
                                                                                                                      
 
 https://thehackernews.com/2019/09/smominru-botnet.html                                                               
