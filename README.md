@@ -143,7 +143,9 @@ Shade Ransomeware
 https://threatpost.com/shade-ransomware-expands-us/145020/
 
 Scranos Malware                                                                                                              
-https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/    
+https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/            
+                                                                                                                      
+Smominru Botnet                                                                                               https://thehackernews.com/2019/09/smominru-botnet.html
 
 
 Mokes" and "Netwire                                                                                                        
