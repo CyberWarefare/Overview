@@ -120,7 +120,7 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-w
 Ubuntu Botnet                                                                                                           
 https://hackernoon.com/is-this-a-ubuntu-based-botnet-deploying-tor-relays-and-bridges-b4ce1a612039                               
 
-Phyton Botnet                                                                                                          
+Linux - Phyton Botnet                                                                                                          
 https://www.f5.com/labs/articles/threat-intelligence/new-python-based-crypto-miner-botnet-flying-under-the-radar           
 
                                                                                                                              
