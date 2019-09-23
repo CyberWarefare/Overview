@@ -118,7 +118,10 @@ Viro Botnet
 https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-with-botnet-capability-breaks-through/              
 
 Ubuntu Botnet                                                                                                           
-https://hackernoon.com/is-this-a-ubuntu-based-botnet-deploying-tor-relays-and-bridges-b4ce1a612039                              
+https://hackernoon.com/is-this-a-ubuntu-based-botnet-deploying-tor-relays-and-bridges-b4ce1a612039                               
+
+Phyton Botnet                                                                                                          
+https://www.f5.com/labs/articles/threat-intelligence/new-python-based-crypto-miner-botnet-flying-under-the-radar           
 
                                                                                                                              
  Cerber Ransomware steals bitcoin wallets                                                                             
