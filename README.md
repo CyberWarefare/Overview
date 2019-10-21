@@ -326,7 +326,10 @@ https://hackerfall.com/story/passive-wifi-tracking
               
 Emailsscam committed through a wide array of “sextortion” blackmail strategies, which included the weaponization of emails        
 https://bitcoinmagazine.com/articles/report-claims-that-sextortionists-absconded-with-over-300000-in-crypto-in-2018/
-              
+                                                                                  
+Fake Tor Browser                                                                                                                         https://cointelegraph.com/news/fake-tor-browser-steals-bitcoin-from-darknet-users-warns-eset                                                                                             
+                                                                                                                             
+
 
 Bots
 https://ice9bot.blogspot.com/
