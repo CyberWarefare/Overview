@@ -361,7 +361,7 @@ Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
 
 
-General / Overview                                                                                                               
+General market                                                                                                              
 https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
 
 
