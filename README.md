@@ -359,7 +359,8 @@ https://news.8btc.com/just-vanished-wallet-tokenstore-sued-by-2100-victims
 
 
 
-Mixers                                                                                                                       
+                                                                                                       
+Mixing services like CoinJoin                                                                        
 https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
 
 
