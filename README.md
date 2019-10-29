@@ -358,11 +358,16 @@ https://news.8btc.com/crypto-wallet-plustoken-a-3-billion-ponzi-scheme-went-bust
 https://news.8btc.com/just-vanished-wallet-tokenstore-sued-by-2100-victims                                                     
 
 
+
+Mixers                                                                                                                       
+https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
+
+
 Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
 
 
                                                                                                              
-https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
+
 
 
