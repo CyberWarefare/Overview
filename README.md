@@ -266,7 +266,8 @@ New Advanced Malware Targeting Windows Computers Available on the Dark Web
 https://darkwebnews.com/hacking/malware-targeting-windows-computers/   
 
 
-New Trends                                                                                                                          
+New Trends                                       
+https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
 Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                          
 https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe     
 
@@ -361,7 +362,7 @@ Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
 
 
-General market                                                                                                              
+                                                                                                             
 https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
 
 
