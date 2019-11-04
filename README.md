@@ -285,7 +285,7 @@ Private Surveillance Is a Lethal Weapon Anybody Can Buy
 https://www.nytimes.com/2019/07/19/opinion/private-surveillance-industry.html?action=click&module=Opinion&pgtype=Homepage&utm_source=digg&utm_medium=email                                                 
 
 
-Monero
+Monero 
 https://www.zdnet.com/article/ransomware-why-the-crooks-are-ditching-bitcoin-and-where-they-are-going-next/
 https://blog.barracuda.com/2017/03/23/kirk-ransomware-does-things-differently/                                                 
 https://cointelegraph.com/news/new-instance-of-monero-malware-sees-cryptojackers-target-linux-users   
