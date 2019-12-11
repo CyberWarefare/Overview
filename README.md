@@ -371,9 +371,10 @@ https://bitcoinmagazine.com/guides/what-are-bitcoin-mixers
 
 Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
-
-
-                                                                                                             
+                                                                                                                                
+                                                                                                                                
+Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
+https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia
 
 
 
