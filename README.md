@@ -124,6 +124,10 @@ https://hackernoon.com/is-this-a-ubuntu-based-botnet-deploying-tor-relays-and-br
 Linux - Phyton Botnet                                                                                                          
 https://www.f5.com/labs/articles/threat-intelligence/new-python-based-crypto-miner-botnet-flying-under-the-radar           
 
+Mirai Botnet (semiautonomously - seeking out targets and spreading itself)
+https://www.bloomberg.com/news/features/2019-12-20/spiderman-hacker-daniel-kaye-took-down-liberia-s-internet
+
+
                                                                                                                              
  Cerber Ransomware steals bitcoin wallets                                                                             
  https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/               
