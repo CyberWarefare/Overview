@@ -14,7 +14,7 @@ Open source code of major threat is free for educational purposes.              
 Overview of actors, tools, how they operate
 Articles
 
-Facts about cryptocurrency theft methods                                                                                        
+Facts about cryptocurrency theft methods                                                                                         
 https://www.cryptolinenews.com/industry-analysis/facts-about-cryptocurrency-theft-methods/   
 https://bitcoinmagazine.com/articles/how-the-plustoken-scam-absconded-with-over-1-percent-of-the-bitcoin-supply                  
 
