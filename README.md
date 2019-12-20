@@ -398,7 +398,7 @@ https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bit
 
 
 Forums
-
+https://chklst.ru/discussion/1596/maynery-kriptovalyut-ispolzuyut-eternalblue-doublepulsar                                   
 
 
 
