@@ -168,6 +168,9 @@ https://vms.drweb.com/virus/?_is=1&i=14934685
 https://www.antiy.com/response/20190822.html                                                                         
 https://securitynews.sonicwall.com/xmlpost/new-variant-pcshare-trojan-with-ups2-version-1-0-2-server-dec-2018/                 
 https://www.cyber.nj.gov/threat-profiles/botnet-variants/smominru                                              
+https://www.cyberscoop.com/mykings-botnet-sophos-smominru/                                                                      
+https://www.itspmagazine.com/from-the-newsroom/top-3-crypto-mining-botnets-smominru-ddg-and-adbminer                             
+
 
 
 Bulehero Botnet                                                                                                               
@@ -406,7 +409,9 @@ https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bit
 
 Forums
 https://chklst.ru/discussion/1596/maynery-kriptovalyut-ispolzuyut-eternalblue-doublepulsar                                
-https://gbhackers.com/                                                                                                    
+https://gbhackers.com/                                                                               
+https://hackforum.pro/                                                                                       
+
 
 
 
