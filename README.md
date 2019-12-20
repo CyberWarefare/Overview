@@ -164,7 +164,7 @@ https://www.guardicore.com/2016/06/the-photominer-campaign/
 https://www.proofpoint.com/us/threat-insight/post/smominru-monero-mining-botnet-making-millions-operators
 https://s.tencent.com/research/report/765.html                                                                                  
 https://www.zscaler.com/blogs/research/darkcloud-bootkit                                                                   
-
+https://vms.drweb.com/virus/?_is=1&i=14934685                                                                             
 
 Bulehero Botnet                                                                                                               
 https://forums.juniper.net/t5/Threat-Research/Anatomy-of-the-Bulehero-Cryptomining-Botnet/ba-p/458787                 
