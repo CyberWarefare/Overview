@@ -125,7 +125,8 @@ Linux - Phyton Botnet
 https://www.f5.com/labs/articles/threat-intelligence/new-python-based-crypto-miner-botnet-flying-under-the-radar           
 
 Mirai Botnet (semiautonomously - seeking out targets and spreading itself)
-https://www.bloomberg.com/news/features/2019-12-20/spiderman-hacker-daniel-kaye-took-down-liberia-s-internet
+https://www.bloomberg.com/news/features/2019-12-20/spiderman-hacker-daniel-kaye-took-down-liberia-s-internet       
+https://krebsonsecurity.com/2017/07/who-is-the-govrat-author-and-mirai-botmaster-bestbuy/
 
 
                                                                                                                              
@@ -379,6 +380,10 @@ https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-a
                                                                                                                                 
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
 https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia
+
+
+Forums
+
 
 
 
