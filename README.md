@@ -160,9 +160,14 @@ https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-j
 https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf                           
 https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-a-mykings-variant-with-bootloader-persistence-via-managed-detection-and-response/                                                                                                 
 https://blog.netlab.360.com/mykings-the-botnet-behind-multiple-active-spreading-botnets/                                        
-https://www.guardicore.com/2016/06/the-photominer-campaign/                                                     
+https://www.guardicore.com/2016/06/the-photominer-campaign/                                              
+https://www.proofpoint.com/us/threat-insight/post/smominru-monero-mining-botnet-making-millions-operators
+https://s.tencent.com/research/report/765.html                                                                                  
+https://www.zscaler.com/blogs/research/darkcloud-bootkit                                                                   
 
 
+Bulehero Botnet                                                                                                               
+https://forums.juniper.net/t5/Threat-Research/Anatomy-of-the-Bulehero-Cryptomining-Botnet/ba-p/458787                 
 
 
 Mokes" and "Netwire                                                                                                        
