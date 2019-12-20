@@ -157,7 +157,12 @@ https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-a
 Smominru Botnet MyKings (alternatively as DarkCloud or Smominru)                                                                         
 https://thehackernews.com/2019/09/smominru-botnet.html
 https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs                                       
-https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf
+https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf                           
+https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-a-mykings-variant-with-bootloader-persistence-via-managed-detection-and-response/                                                                                                 
+https://blog.netlab.360.com/mykings-the-botnet-behind-multiple-active-spreading-botnets/                                        
+https://www.guardicore.com/2016/06/the-photominer-campaign/                                                     
+
+
 
 
 Mokes" and "Netwire                                                                                                        
@@ -304,7 +309,9 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/monero-miner-malware
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/Trojan.Win32.MIMIKATZ.ADU?_ga=2.67727382.60182665.1551811519-1187802437.1551811518                                                                                                             
 https://github.com/search?q=smominru&type=Code                                                                                  
 https://www.techrepublic.com/article/nasty-botnet-uses-wannacry-exploit-to-mine-cryptocurrency-from-your-servers/                
-https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs
+https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs                                      
+https://www.guardicore.com/2016/06/the-photominer-campaign/
+                                                                                                    
                                                                                                                      
 
 https://thehackernews.com/2019/09/smominru-botnet.html                                                               
