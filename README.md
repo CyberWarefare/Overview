@@ -157,6 +157,7 @@ https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-a
 Smominru Botnet MyKings (alternatively as DarkCloud or Smominru)                                                                         
 https://thehackernews.com/2019/09/smominru-botnet.html
 https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs                                       
+https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf
 
 
 Mokes" and "Netwire                                                                                                        
