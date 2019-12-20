@@ -154,7 +154,7 @@ https://threatpost.com/shade-ransomware-expands-us/145020/
 Scranos Malware                                                                                                              
 https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/            
                                                                                                                       
-Smominru Botnet MyKings (alternatively as DarkCloud or Smominru)                                                                         
+Smominru Botnet MyKings (alternatively as DarkCloud or Smominru pt Hexmen)                                                                         
 https://thehackernews.com/2019/09/smominru-botnet.html
 https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs                                       
 https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf                           
@@ -167,6 +167,7 @@ https://www.zscaler.com/blogs/research/darkcloud-bootkit
 https://vms.drweb.com/virus/?_is=1&i=14934685                                                                                      
 https://www.antiy.com/response/20190822.html                                                                         
 https://securitynews.sonicwall.com/xmlpost/new-variant-pcshare-trojan-with-ups2-version-1-0-2-server-dec-2018/                 
+https://www.cyber.nj.gov/threat-profiles/botnet-variants/smominru                                              
 
 
 Bulehero Botnet                                                                                                               
@@ -401,7 +402,9 @@ https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bit
 
 
 Forums
-https://chklst.ru/discussion/1596/maynery-kriptovalyut-ispolzuyut-eternalblue-doublepulsar                                   
+https://chklst.ru/discussion/1596/maynery-kriptovalyut-ispolzuyut-eternalblue-doublepulsar                                
+https://gbhackers.com/                                                                                                    
+
 
 
 
