@@ -393,6 +393,9 @@ https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-b
 https://bitcoinmagazine.com/guides/what-are-bitcoin-mixers                                                                 
 
 
+Telegram
+https://gbhackers.com/masad-stealer/                                                                                         
+
 Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
                                                                                                                                 
