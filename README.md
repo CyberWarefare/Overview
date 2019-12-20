@@ -169,7 +169,8 @@ https://www.antiy.com/response/20190822.html
 https://securitynews.sonicwall.com/xmlpost/new-variant-pcshare-trojan-with-ups2-version-1-0-2-server-dec-2018/                 
 https://www.cyber.nj.gov/threat-profiles/botnet-variants/smominru                                              
 https://www.cyberscoop.com/mykings-botnet-sophos-smominru/                                                                      
-https://www.itspmagazine.com/from-the-newsroom/top-3-crypto-mining-botnets-smominru-ddg-and-adbminer                             
+https://www.itspmagazine.com/from-the-newsroom/top-3-crypto-mining-botnets-smominru-ddg-and-adbminer                        
+
 
 
 
