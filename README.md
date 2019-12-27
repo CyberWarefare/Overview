@@ -394,7 +394,8 @@ Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin 
 https://bitcoinmagazine.com/guides/bitcoin-anonymous                                                              
 https://bitcoinmagazine.com/articles/better-bitcoin-privacy-scalability-developers-are-making-tumblebit-reality/            
 https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
-https://bitcoinmagazine.com/guides/what-are-bitcoin-mixers                                                                 
+https://bitcoinmagazine.com/guides/what-are-bitcoin-mixers                                                     
+POSSIBLE? ANONYMOUS TRANSACTIONS https://pragmaticcoders.com/blog/anonymous-transactions-on-the-public-blockchain/
 
 
 Telegram
