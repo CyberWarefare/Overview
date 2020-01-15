@@ -217,6 +217,7 @@ Windows
 Windows Torrent File Malware Can Swap Out Crypto Addresses, Researcher Warns
 https://cointelegraph.com/news/windows-torrent-file-malware-can-swap-out-crypto-addresses-researcher-warns                  
 https://www.techrepublic.com/article/nasty-botnet-uses-wannacry-exploit-to-mine-cryptocurrency-from-your-servers/             
+https://www.wired.com/story/nsa-windows-10-vulnerability-disclosure/#intcid=recommendations_wired-homepage-right-rail-popular_8647e7a8-5e06-4f07-99c2-569573f1586b_popular4-1                                                                                              
 
 
 CISCO Router                                                                                                                   https://www.wired.com/story/cisco-router-bug-secure-boot-trust-anchor/                                                         
