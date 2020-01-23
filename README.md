@@ -24,6 +24,9 @@ What is a Botnet HTTP-Botnets: The Dark Side of a Standard Protocol!
 https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets.html                                                            
 https://usa.kaspersky.com/resource-center/threats/botnet-attacks
 
+How to build your own botnet, a framework for security researchers and developers to build and operate a basic botnet 
+https://www.youtube.com/watch?v=TBSh_w0I-z8
+
 
 What is a Trojon Virus
 https://usa.kaspersky.com/resource-center/threats/trojans
