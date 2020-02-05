@@ -399,7 +399,9 @@ https://bitcoinmagazine.com/guides/bitcoin-anonymous
 https://bitcoinmagazine.com/articles/better-bitcoin-privacy-scalability-developers-are-making-tumblebit-reality/            
 https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
 https://bitcoinmagazine.com/guides/what-are-bitcoin-mixers                                                     
-POSSIBLE? ANONYMOUS TRANSACTIONS https://pragmaticcoders.com/blog/anonymous-transactions-on-the-public-blockchain/
+POSSIBLE? ANONYMOUS TRANSACTIONS https://pragmaticcoders.com/blog/anonymous-transactions-on-the-public-blockchain/                
+https://bitcoinmagazine.com/articles/do-coinjoin-mixes-really-require-equal-transaction-amounts-for-privacy-part-two-knapsack      
+
 
 
 Telegram
