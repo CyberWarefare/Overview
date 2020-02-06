@@ -298,7 +298,7 @@ New Advanced Malware Targeting Windows Computers Available on the Dark Web
 https://darkwebnews.com/hacking/malware-targeting-windows-computers/   
 
 
-New Trends                                       
+New Trends                                                                                                                               https://bitcoinmagazine.com/articles/2019-saw-most-exchange-attacks-ever-with-hackers-becoming-more-savvy     
 https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
 Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                          
 https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe     
@@ -400,7 +400,9 @@ https://bitcoinmagazine.com/articles/better-bitcoin-privacy-scalability-develope
 https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
 https://bitcoinmagazine.com/guides/what-are-bitcoin-mixers                                                     
 POSSIBLE? ANONYMOUS TRANSACTIONS https://pragmaticcoders.com/blog/anonymous-transactions-on-the-public-blockchain/                
-https://bitcoinmagazine.com/articles/do-coinjoin-mixes-really-require-equal-transaction-amounts-for-privacy-part-two-knapsack      
+https://bitcoinmagazine.com/articles/do-coinjoin-mixes-really-require-equal-transaction-amounts-for-privacy-part-two-knapsack     
+https://bitcoinmagazine.com/articles/how-payswap-can-confuse-blockchain-analysts-benefiting-bitcoin-privacy-for-all          
+https://bitcoinmagazine.com/articles/maintaining-transaction-privacy-in-the-age-of-government-blockchain-analysis                
 
 
 
