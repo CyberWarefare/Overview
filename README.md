@@ -403,6 +403,8 @@ POSSIBLE? ANONYMOUS TRANSACTIONS https://pragmaticcoders.com/blog/anonymous-tran
 https://bitcoinmagazine.com/articles/do-coinjoin-mixes-really-require-equal-transaction-amounts-for-privacy-part-two-knapsack     
 https://bitcoinmagazine.com/articles/how-payswap-can-confuse-blockchain-analysts-benefiting-bitcoin-privacy-for-all          
 https://bitcoinmagazine.com/articles/maintaining-transaction-privacy-in-the-age-of-government-blockchain-analysis                
+https://bitcoinmagazine.com/articles/coinjoins-first-steps-how-dark-wallet-paved-the-way-for-a-more-private-bitcoin                
+
 
 
 
