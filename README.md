@@ -266,7 +266,7 @@ https://coinidol.com/north-korean-lazarus/
 https://thehackernews.com/2019/05/north-korean-hacking-tool.html                                                              
 https://www.wired.com/story/how-north-korea-robs-banks-around-world/                                                          
 https://www.wsj.com/articles/north-korea-is-suspected-in-bitcoin-heist-1522303177
-
+https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/
 
 
 
