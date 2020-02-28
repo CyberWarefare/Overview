@@ -264,6 +264,7 @@ Inside North Korea’s Hacker Army (Lazarus Hacker Group)
 https://www.bloomberg.com/news/features/2018-02-07/inside-kim-jong-un-s-hacker-army                                                
 https://coinidol.com/north-korean-lazarus/   
 https://thehackernews.com/2019/05/north-korean-hacking-tool.html                                                              
+https://www.wired.com/story/how-north-korea-robs-banks-around-world/                                                          
 
 
 
