@@ -40,7 +40,8 @@ Trojans - Vidar information-stealing Trojan / Qulab trojans
 https://cointelegraph.com/news/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website                      
 - https://www.group-ib.com/blog/moneytaker                                                                                    
 Cerberus Banking Trojan                                                                                                                 
- https://thehackernews.com/2019/08/cerberus-android-banking-trojan.html                                                               
+ https://thehackernews.com/2019/08/cerberus-android-banking-trojan.html                                                         
+https://cointelegraph.com/news/threat-alert-new-trojans-targeting-major-crypto-exchanges-apps-discovered                         
                                                                                               
                                                                                                                                  
 RAT (Remote Access Trojan), which they named InnfiRAT                                                    
