@@ -268,7 +268,8 @@ https://thehackernews.com/2019/05/north-korean-hacking-tool.html
 https://www.wired.com/story/how-north-korea-robs-banks-around-world/                                                          
 https://www.wsj.com/articles/north-korea-is-suspected-in-bitcoin-heist-1522303177
 https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/                                                  
-https://tokenhell.com/us-authority-charged-two-chinese-officials-with-laundering-cryptocurrency-worth-100m/
+https://tokenhell.com/us-authority-charged-two-chinese-officials-with-laundering-cryptocurrency-worth-100m/                      
+https://www.the-blockchain.com/2020/03/13/two-chinese-nationals-charged-with-hacking-cryptocurrency-exchange-and-laundering-over-100-million-in-cryptocurrency/                                                                                                        
 
 
 
