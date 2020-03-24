@@ -431,6 +431,7 @@ https://gbhackers.com/
 https://hackforum.pro/                                                                                       
 
 
-
+Future Dissident tech development
+https://bitcoinmagazine.com/articles/amir-taaki-on-bitcoin-and-building-dissident-technology-in-2020
 
 
