@@ -369,6 +369,8 @@ https://bitcoinmagazine.com/articles/report-claims-that-sextortionists-absconded
                                                                                   
 Fake Tor Browser                                                                                                                         https://cointelegraph.com/news/fake-tor-browser-steals-bitcoin-from-darknet-users-warns-eset                                                                                             
                                                                                                                              
+Google Store /  Google Chrome                                                                                                    
+https://cointelegraph.com/news/fake-ledger-live-chrome-extension-stole-14m-xrp-researchers-claim                            
 
 
 Bots
