@@ -438,3 +438,12 @@ Future Dissident tech development
 https://bitcoinmagazine.com/articles/amir-taaki-on-bitcoin-and-building-dissident-technology-in-2020
 
 
+LOST YOUR BITCOIN? HERE IS HOW YOU CAN RECOVER IT                                                                          
+https://bitcoinist.com/lost-your-bitcoin-here-is-how-you-can-recover-it/                                                    
+
+
+
+
+
+
+
