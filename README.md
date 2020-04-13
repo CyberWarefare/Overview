@@ -133,7 +133,8 @@ https://www.bloomberg.com/news/features/2019-12-20/spiderman-hacker-daniel-kaye-
 https://krebsonsecurity.com/2017/07/who-is-the-govrat-author-and-mirai-botmaster-bestbuy/                                    
 
 DDG botnet                                                                                                            
-https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c
+https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c                                            
+https://threatpost.com/p2p-ddg-botnet-unstoppable/154650/
 
 
                                                                                                                              
