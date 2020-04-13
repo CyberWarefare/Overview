@@ -130,7 +130,11 @@ https://www.f5.com/labs/articles/threat-intelligence/new-python-based-crypto-min
 
 Mirai Botnet (semiautonomously - seeking out targets and spreading itself)
 https://www.bloomberg.com/news/features/2019-12-20/spiderman-hacker-daniel-kaye-took-down-liberia-s-internet       
-https://krebsonsecurity.com/2017/07/who-is-the-govrat-author-and-mirai-botmaster-bestbuy/                                    
+https://krebsonsecurity.com/2017/07/who-is-the-govrat-author-and-mirai-botmaster-bestbuy/                                
+
+Necur                                                                                                                          
+https://threatpost.com/necurs-botnet-in-crosshairs-of-global-takedown-offensive/153607/                                       
+
 
 DDG botnet                                                                                                            
 https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c                                            
