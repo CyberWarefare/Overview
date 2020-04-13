@@ -222,7 +222,8 @@ LocalBitcoin                                                                    
 
 Android
 https://www.linkedin.com/pulse/new-man-in-the-disk-attack-leaves-millions-android-phones-upadhyay/
-https://thehackernews.com/2019/10/remove-xhelper-android-malware.html
+https://thehackernews.com/2019/10/remove-xhelper-android-malware.html                                                           
+https://threatpost.com/xhelper-russian-nesting-doll-android-malware/154519/                                             
 
 
 Windows                                                                                                                              
