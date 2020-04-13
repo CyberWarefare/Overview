@@ -412,7 +412,7 @@ https://news.8btc.com/just-vanished-wallet-tokenstore-sued-by-2100-victims
 
 
                                                                                                        
-Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin anonymous?                                                                      
+Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin anonymous?                                              
 https://bitcoinmagazine.com/guides/bitcoin-anonymous                                                              
 https://bitcoinmagazine.com/articles/better-bitcoin-privacy-scalability-developers-are-making-tumblebit-reality/            
 https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
@@ -422,7 +422,8 @@ https://bitcoinmagazine.com/articles/do-coinjoin-mixes-really-require-equal-tran
 https://bitcoinmagazine.com/articles/how-payswap-can-confuse-blockchain-analysts-benefiting-bitcoin-privacy-for-all          
 https://bitcoinmagazine.com/articles/maintaining-transaction-privacy-in-the-age-of-government-blockchain-analysis                
 https://bitcoinmagazine.com/articles/coinjoins-first-steps-how-dark-wallet-paved-the-way-for-a-more-private-bitcoin                
-https://cryptonews.com/news/incognito-launches-anonymous-way-to-swap-monero-with-bitcoin-5876.htm
+https://cryptonews.com/news/incognito-launches-anonymous-way-to-swap-monero-with-bitcoin-5876.htm                           
+https://cointelegraph.com/news/coin-mixers-record-breaking-month-proves-bitcoin-users-want-anonymity                                             
 
 
 
