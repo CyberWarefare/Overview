@@ -130,7 +130,10 @@ https://www.f5.com/labs/articles/threat-intelligence/new-python-based-crypto-min
 
 Mirai Botnet (semiautonomously - seeking out targets and spreading itself)
 https://www.bloomberg.com/news/features/2019-12-20/spiderman-hacker-daniel-kaye-took-down-liberia-s-internet       
-https://krebsonsecurity.com/2017/07/who-is-the-govrat-author-and-mirai-botmaster-bestbuy/
+https://krebsonsecurity.com/2017/07/who-is-the-govrat-author-and-mirai-botmaster-bestbuy/                                    
+
+DDG botnet                                                                                                            
+https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c
 
 
                                                                                                                              
@@ -332,7 +335,8 @@ https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/Trojan.Win32.MIM
 https://github.com/search?q=smominru&type=Code                                                                                  
 https://www.techrepublic.com/article/nasty-botnet-uses-wannacry-exploit-to-mine-cryptocurrency-from-your-servers/                
 https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs                                      
-https://www.guardicore.com/2016/06/the-photominer-campaign/
+https://www.guardicore.com/2016/06/the-photominer-campaign/                                                            
+https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c
                                                                                                     
                                                                                                                      
 
