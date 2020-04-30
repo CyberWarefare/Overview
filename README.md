@@ -400,8 +400,9 @@ https://www.cybersecurity-insiders.com/the-malware-of-the-future-will-be-indepen
 Hide Your IP address / Anonoumus DNS providers                                                                                           https://darkwebnews.com/anonymity/dns-providers-that-dont-log-queries/                                                    
 
 
-Fake exchanges                                                                                                             
+Fake / leaking / hacked exchanges                                                                                                         
 https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                           
+https://www.rollingstone.com/culture/culture-news/the-rise-and-fall-of-a-bitcoin-kingpin-43198/
 
 
 Ponzi scheme
