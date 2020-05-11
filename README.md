@@ -429,7 +429,10 @@ https://cointelegraph.com/news/coin-mixers-record-breaking-month-proves-bitcoin-
 https://medium.com/tozex/how-do-criminals-launder-money-through-blockchain-dc66916b5d81  
 
 
-
+Mixing to crypto to USD                                                                                                  
+https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                                      
+                                                                                                                                 
+                                                                                                                                 
 
 Telegram
 https://gbhackers.com/masad-stealer/                                                                                         
