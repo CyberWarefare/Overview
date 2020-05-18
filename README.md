@@ -426,7 +426,8 @@ https://bitcoinmagazine.com/articles/maintaining-transaction-privacy-in-the-age-
 https://bitcoinmagazine.com/articles/coinjoins-first-steps-how-dark-wallet-paved-the-way-for-a-more-private-bitcoin                
 https://cryptonews.com/news/incognito-launches-anonymous-way-to-swap-monero-with-bitcoin-5876.htm                           
 https://cointelegraph.com/news/coin-mixers-record-breaking-month-proves-bitcoin-users-want-anonymity                                     
-https://medium.com/tozex/how-do-criminals-launder-money-through-blockchain-dc66916b5d81  
+https://medium.com/tozex/how-do-criminals-launder-money-through-blockchain-dc66916b5d81                                            
+https://cointelegraph.com/news/bitmex-faces-lawsuit-for-alleged-racketeering-and-extensive-illicit-activities
 
 
 Mixing to crypto to USD                                                                                                  
