@@ -404,6 +404,10 @@ Hide Your IP address / Anonoumus DNS providers                                  
 Fake / leaking / hacked exchanges                                                                                                         
 https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                           
 https://www.rollingstone.com/culture/culture-news/the-rise-and-fall-of-a-bitcoin-kingpin-43198/
+                                                                                                                        
+                                                                                                               
+Website hijacking                                                                                                       
+https://www.wired.com/2016/10/anonymous-notorious-hacker-back-hes-gone-legit/#intcid=recommendations_wired-homepage-right-rail_b25757e7-e0bf-40bc-a95d-aeb6f786c6e6_popular4-1                                                                                            
 
 
 Ponzi scheme
