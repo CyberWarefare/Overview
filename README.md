@@ -396,7 +396,8 @@ https://www.technadu.com/cybercriminals-cloudflares-ipfs-gateway-phishing-attack
 Deep Learing Resources/  Artificial Intelligence                                                                                    
 https://www.edureka.co/blog/deep-learning-with-python/                                                           
 https://www.cybersecurity-insiders.com/the-malware-of-the-future-will-be-independent-and-adaptable/                               
-https://www.rebellionresearch.com/blog/ai-security-with-adversarial-robustness-and-explainable-ai
+https://www.rebellionresearch.com/blog/ai-security-with-adversarial-robustness-and-explainable-ai                            
+https://www.rebellionresearch.com/blog/ai-vs-fraud                                                                         
 
 
 Hide Your IP address / Anonoumus DNS providers                                                                                           https://darkwebnews.com/anonymity/dns-providers-that-dont-log-queries/                                                    
