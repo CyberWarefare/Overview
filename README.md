@@ -433,7 +433,10 @@ https://bitcoinmagazine.com/articles/coinjoins-first-steps-how-dark-wallet-paved
 https://cryptonews.com/news/incognito-launches-anonymous-way-to-swap-monero-with-bitcoin-5876.htm                           
 https://cointelegraph.com/news/coin-mixers-record-breaking-month-proves-bitcoin-users-want-anonymity                                     
 https://medium.com/tozex/how-do-criminals-launder-money-through-blockchain-dc66916b5d81                                            
-https://cointelegraph.com/news/bitmex-faces-lawsuit-for-alleged-racketeering-and-extensive-illicit-activities
+https://cointelegraph.com/news/bitmex-faces-lawsuit-for-alleged-racketeering-and-extensive-illicit-activities                   
+https://bitcoinmagazine.com/articles/the-human-rights-foundation-is-now-funding-bitcoin-privacy-development-starting-with-coinswap   
+https://github.com/AdamISZ/CoinswapCS                                                                                          
+
 
 
 Mixing to crypto to USD                                                                                                  
