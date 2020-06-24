@@ -436,6 +436,7 @@ https://medium.com/tozex/how-do-criminals-launder-money-through-blockchain-dc669
 https://cointelegraph.com/news/bitmex-faces-lawsuit-for-alleged-racketeering-and-extensive-illicit-activities                   
 https://bitcoinmagazine.com/articles/the-human-rights-foundation-is-now-funding-bitcoin-privacy-development-starting-with-coinswap   
 https://github.com/AdamISZ/CoinswapCS                                                                                       
+https://news.bitcoin.com/john-mcafee-announces-privacy-coin-airdrop-today/                                                       
 https://mcafeedex.com/#/erc20                                                                                                  
 
 
