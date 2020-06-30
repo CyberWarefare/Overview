@@ -446,7 +446,8 @@ https://mcafeedex.com/#/erc20
                                                               
                                                               
 Etereum Mixers                                                           
-https://www.coindesk.com/hacker-drains-defi-liquidity-balancer
+https://www.coindesk.com/hacker-drains-defi-liquidity-balancer                                                        
+https://medium.com/@tornado.cash/introducing-private-transactions-on-ethereum-now-42ee915babe0                                  
 
 
 Mixing to crypto to USD                                                                                                  
