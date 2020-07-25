@@ -311,7 +311,8 @@ https://coinfomania.com/20-year-old-dawson-bakies-accused-crypto-theft/?fbclid=I
 
 
 Domain Squatting                                                                                                                         https://darkwebnews.com/scams/btc-scammer-made-760k-through-darknet-typosquatting/
-https://cointelegraph.com/news/europol-arrests-six-people-allegedly-behind-27-million-bitcoin-theft?fbclid=IwAR2IFxAx_2mCM-VwUIasko61tcJ8g_4vSb7n0zy_2y1szHhRbw2VmfZvR1A
+https://cointelegraph.com/news/europol-arrests-six-people-allegedly-behind-27-million-bitcoin-theft?fbclid=IwAR2IFxAx_2mCM-VwUIasko61tcJ8g_4vSb7n0zy_2y1szHhRbw2VmfZvR1A                                                                 
+https://portswigger.net/daily-swig/dark-web-typosquatters-raking-in-a-fortune
 
 
 New Advanced Malware Targeting Windows Computers Available on the Dark Web                                                            
