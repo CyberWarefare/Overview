@@ -349,9 +349,14 @@ https://github.com/search?q=smominru&type=Code
 https://www.techrepublic.com/article/nasty-botnet-uses-wannacry-exploit-to-mine-cryptocurrency-from-your-servers/                
 https://cointelegraph.com/news/monero-malware-botnet-lurks-behind-taylor-swift-jpegs                                      
 https://www.guardicore.com/2016/06/the-photominer-campaign/                                                            
-https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c
+https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c                                         
+                                                                                                                     
+                                                                                                                     
+ Bitcoin                                                                                                                 
+ https://www.globalbankingandfinance.com/bitcoin-stealers-are-back-hunt-for-users-cryptosavings-continues/
                                                                                                     
                                                                                                                      
+
 
 https://thehackernews.com/2019/09/smominru-botnet.html                                                               
                                                         
