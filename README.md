@@ -417,7 +417,8 @@ Hide Your IP address / Anonoumus DNS providers                                  
 
 Fake / leaking / hacked exchanges                                                                                                         
 https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                           
-https://www.rollingstone.com/culture/culture-news/the-rise-and-fall-of-a-bitcoin-kingpin-43198/
+https://www.rollingstone.com/culture/culture-news/the-rise-and-fall-of-a-bitcoin-kingpin-43198/                              
+https://cointelegraph.com/news/researchers-claim-crypto-exchange-hacks-happen-in-three-ways                                
                                                                                                                         
                                                                                                                
 Website hijacking                                                                                                       
