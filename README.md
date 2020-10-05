@@ -415,10 +415,11 @@ https://portswigger.net/daily-swig/trojannet-a-simple-yet-effective-attack-on-ma
 Hide Your IP address / Anonoumus DNS providers                                                                                           https://darkwebnews.com/anonymity/dns-providers-that-dont-log-queries/                                                    
 
 
-Fake / leaking / hacked exchanges                                                                                                         
+Exchanges Hacked / Fake / leaking                                                                                                         
 https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-000-usd-c2d10a0dd14e                           
 https://www.rollingstone.com/culture/culture-news/the-rise-and-fall-of-a-bitcoin-kingpin-43198/                              
-https://cointelegraph.com/news/researchers-claim-crypto-exchange-hacks-happen-in-three-ways                                
+https://cointelegraph.com/news/researchers-claim-crypto-exchange-hacks-happen-in-three-ways                                        
+https://cointelegraph.com/news/kucoin-hack-unpacked-more-crypto-possibly-stolen-than-first-feared
                                                                                                                         
                                                                                                                
 Website hijacking                                                                                                       
