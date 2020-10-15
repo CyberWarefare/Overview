@@ -352,6 +352,7 @@ https://www.guardicore.com/2016/06/the-photominer-campaign/
 https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/?fbclid=IwAR1WOSx76zeSvkcQ9cz42VdQnNiks3krdJh5DqFuMITVQzZ3dYVFdeeiSmY#1530df537c5c                                              
 https://decrypt.co/44005/a-monero-malware-has-been-upgraded-and-can-now-steal-passwords                                          
 https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/                                                           
+https://cointelegraph.com/news/alarming-growth-of-difficult-to-detect-lemon-duck-crypto-mining-botnet                          
 
                                                                                                                      
                                                                                                                      
