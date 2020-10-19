@@ -102,7 +102,9 @@ CryptON Ransomware Installed Using Hacked Remote Desktop Services
 https://www.bleepingcomputer.com/news/security/crypton-ransomware-installed-using-hacked-remote-desktop-services/
 
 Locky Ransomware Information, Help Guide, and FAQ
-https://www.bleepingcomputer.com/virus-removal/locky-ransomware-information-help
+https://www.bleepingcomputer.com/virus-removal/locky-ransomware-information-help                                          
+https://beincrypto.com/russian-nationals-bitcoin-ransomware-trial-begins-in-paris/                                      
+
 
 CryptoLocker Ransomware Information Guide and FAQ
 https://www.bleepingcomputer.com/virus-removal/cryptolocker-ransomware-information
