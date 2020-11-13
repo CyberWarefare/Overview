@@ -482,7 +482,9 @@ https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-a
                                                                                                                                 
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
 https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
-https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk
+https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk                                                         
+https://www.bloomberg.com/news/articles/2020-11-13/a-russian-cyber-guru-finds-ways-to-distance-company-from-kremlin?srnd=premium-europe  
+
 
 
 Forums
