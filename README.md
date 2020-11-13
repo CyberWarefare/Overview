@@ -385,7 +385,12 @@ https://coinfomania.com/missing-11-million-iota-tokens-recovered-report/?fbclid=
  https://steemit.com/shadowbrokers/@theshadowbrokers/theshadowbrokers-monthly-dump-service-july-2017
  
  APT28 / Russia's 'Fancy Bear' Hackers                                                                                                  
- https://www.wired.com/story/fancy-bear-hotel-hack/                                                                                 
+ https://www.wired.com/story/fancy-bear-hotel-hack/                                                                             
+                                                                                                                             
+                                                                                                                             
+ Russia's Evil Corp  /  Using Dridex malware (Also known as Bugat / Cridex)                                                                                                               
+ https://www.bloomberg.com/news/articles/2019-12-05/u-s-sanctions-evil-corp-blamed-for-100-million-cyber-theft               
+ 
  
  
 WIFI sniffers
