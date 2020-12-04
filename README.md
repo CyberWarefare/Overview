@@ -150,7 +150,9 @@ https://threatpost.com/p2p-ddg-botnet-unstoppable/154650/
   
                                                                                                                      
 Ryyuk Ransomware (Very profitable)                             
-https://cointelegraph.com/news/research-suggests-russian-based-hackers-behind-ryuk-ransomwares-25-million-gains                 
+https://cointelegraph.com/news/research-suggests-russian-based-hackers-behind-ryuk-ransomwares-25-million-gains                   
+https://www.csoonline.com/article/3541810/ryuk-ransomware-explained-a-targeted-devastatingly-effective-attack.html               
+
 
 
 Gustuff                                                                                                                           
