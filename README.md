@@ -416,7 +416,8 @@ https://ice9bot.blogspot.com/
 https://readwrite.com/2013/07/31/how-to-build-a-botnet-in-15-minutes/                                                       
 
 TrickBot                                                                                                                         
-https://www.csoonline.com/article/3599908/trickbot-gets-new-uefi-attack-capability-that-makes-recovery-incredibly-hard.html
+https://www.csoonline.com/article/3599908/trickbot-gets-new-uefi-attack-capability-that-makes-recovery-incredibly-hard.html      
+https://eclypsium.com/2020/12/03/trickbot-now-offers-trickboot-persist-brick-profit/                                      
 
 
 IPFS                                                                                                                             
