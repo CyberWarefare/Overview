@@ -413,7 +413,10 @@ https://cointelegraph.com/news/fake-ledger-live-chrome-extension-stole-14m-xrp-r
 
 Bots
 https://ice9bot.blogspot.com/
-https://readwrite.com/2013/07/31/how-to-build-a-botnet-in-15-minutes/
+https://readwrite.com/2013/07/31/how-to-build-a-botnet-in-15-minutes/                                                       
+
+TrickBot                                                                                                                         
+https://www.csoonline.com/article/3599908/trickbot-gets-new-uefi-attack-capability-that-makes-recovery-incredibly-hard.html
 
 
 IPFS                                                                                                                             
