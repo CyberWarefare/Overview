@@ -494,6 +494,11 @@ https://gbhackers.com/masad-stealer/
 
 Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
+
+
+Darknet Ecommerce, Hydra, Empire Market Bypass Shop, etc.                                                                     
+https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                              
+
                                                                                                                                 
                                                                                                                                 
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
