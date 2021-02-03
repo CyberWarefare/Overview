@@ -498,6 +498,7 @@ https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-a
 
 Darknet Ecommerce, Hydra, Empire Market Bypass Shop, etc.                                                                     
 https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                              
+https://assets.ctfassets.net/kisruz03w7zs/1Mg3NZrElrcbkGZdYhsgql/0f5798852c0ab67b950252ee410eac16/Nethone_-_Brief_history_of_the_biggest_Eng_and_Rus_DNMs.pdf                                                                             
 
                                                                                                                                 
                                                                                                                                 
