@@ -45,7 +45,10 @@ https://cointelegraph.com/news/threat-alert-new-trojans-targeting-major-crypto-e
                                                                                               
                                                                                                                                  
 RAT (Remote Access Trojan), which they named InnfiRAT                                                    
-https://bitcoinist.com/a-new-malware-can-steal-data-from-crypto-wallets/                                                                                                                 
+https://bitcoinist.com/a-new-malware-can-steal-data-from-crypto-wallets/                                                       
+                                                                                                                 
+Hackers Now Hiding ObliqueRAT Payload in Images to Evade Detection                                                           
+https://thehackernews.com/2021/03/hackers-now-hiding-obliquerat-payload.html
                   
 The Rise of Super-Stealthy Digitally Signed Malware—Thanks to the Dark Web
 https://thehackernews.com/2017/11/malware-digital-certificate.html
