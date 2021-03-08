@@ -364,7 +364,8 @@ https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-p
 https://decrypt.co/44005/a-monero-malware-has-been-upgraded-and-can-now-steal-passwords                                          
 https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/                                                           
 https://cointelegraph.com/news/alarming-growth-of-difficult-to-detect-lemon-duck-crypto-mining-botnet                          
-https://blog.talosintelligence.com/2020/10/lemon-duck-brings-cryptocurrency-miners.html                                       
+https://blog.talosintelligence.com/2020/10/lemon-duck-brings-cryptocurrency-miners.html                                        
+https://decrypt.co/44005/a-monero-malware-has-been-upgraded-and-can-now-steal-passwords
 
                                                                                                                      
                                                                                                                      
