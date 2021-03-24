@@ -192,6 +192,7 @@ https://www.cyber.nj.gov/threat-profiles/botnet-variants/smominru
 https://www.cyberscoop.com/mykings-botnet-sophos-smominru/                                                                      
 https://www.itspmagazine.com/from-the-newsroom/top-3-crypto-mining-botnets-smominru-ddg-and-adbminer                             
 https://www.wired.com/story/opinion-bitcoins-greatest-feature-is-also-its-existential-threat/                                 
+https://blogs.akamai.com/sitr/2021/02/bitcoins-blockchains-and-botnets.html                                                       
 
 
 
