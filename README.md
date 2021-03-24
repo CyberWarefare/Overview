@@ -25,7 +25,8 @@ https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets.html
 https://usa.kaspersky.com/resource-center/threats/botnet-attacks
 
 How to build your own botnet, a framework for security researchers and developers to build and operate a basic botnet 
-https://www.youtube.com/watch?v=TBSh_w0I-z8
+https://www.youtube.com/watch?v=TBSh_w0I-z8                                                                                    
+https://www.wired.com/story/opinion-bitcoins-greatest-feature-is-also-its-existential-threat/                                  
 
 
 What is a Trojon Virus
@@ -189,7 +190,8 @@ https://www.antiy.com/response/20190822.html
 https://securitynews.sonicwall.com/xmlpost/new-variant-pcshare-trojan-with-ups2-version-1-0-2-server-dec-2018/                 
 https://www.cyber.nj.gov/threat-profiles/botnet-variants/smominru                                              
 https://www.cyberscoop.com/mykings-botnet-sophos-smominru/                                                                      
-https://www.itspmagazine.com/from-the-newsroom/top-3-crypto-mining-botnets-smominru-ddg-and-adbminer                        
+https://www.itspmagazine.com/from-the-newsroom/top-3-crypto-mining-botnets-smominru-ddg-and-adbminer                             
+https://www.wired.com/story/opinion-bitcoins-greatest-feature-is-also-its-existential-threat/                                 
 
 
 
@@ -371,7 +373,8 @@ https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/
                                                                                                                      
                                                                                                                      
  Bitcoin                                                                                                                 
- https://www.globalbankingandfinance.com/bitcoin-stealers-are-back-hunt-for-users-cryptosavings-continues/
+ https://www.globalbankingandfinance.com/bitcoin-stealers-are-back-hunt-for-users-cryptosavings-continues/                    
+ https://www.wired.com/story/opinion-bitcoins-greatest-feature-is-also-its-existential-threat/                                
                                                                                                     
                                                                                                                      
 
