@@ -484,8 +484,8 @@ https://bitcoinmagazine.com/articles/the-human-rights-foundation-is-now-funding-
 https://github.com/AdamISZ/CoinswapCS                                                                                       
 https://news.bitcoin.com/john-mcafee-announces-privacy-coin-airdrop-today/                                                       
 https://mcafeedex.com/#/erc20                                                                                                  
-https://www.coindesk.com/us-officials-arrest-alleged-operator-of-336m-bitcoin-mixing-service                                 
-                                                              
+https://www.coindesk.com/us-officials-arrest-alleged-operator-of-336m-bitcoin-mixing-service                                    
+https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-report                                                                                                 
                                                               
 Etereum Mixers                                                           
 https://www.coindesk.com/hacker-drains-defi-liquidity-balancer                                                        
