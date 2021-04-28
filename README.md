@@ -483,7 +483,8 @@ https://cointelegraph.com/news/bitmex-faces-lawsuit-for-alleged-racketeering-and
 https://bitcoinmagazine.com/articles/the-human-rights-foundation-is-now-funding-bitcoin-privacy-development-starting-with-coinswap   
 https://github.com/AdamISZ/CoinswapCS                                                                                       
 https://news.bitcoin.com/john-mcafee-announces-privacy-coin-airdrop-today/                                                       
-https://mcafeedex.com/#/erc20                                                                                                            
+https://mcafeedex.com/#/erc20                                                                                                  
+https://www.coindesk.com/us-officials-arrest-alleged-operator-of-336m-bitcoin-mixing-service                                 
                                                               
                                                               
 Etereum Mixers                                                           
