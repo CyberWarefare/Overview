@@ -485,7 +485,9 @@ https://github.com/AdamISZ/CoinswapCS
 https://news.bitcoin.com/john-mcafee-announces-privacy-coin-airdrop-today/                                                       
 https://mcafeedex.com/#/erc20                                                                                                  
 https://www.coindesk.com/us-officials-arrest-alleged-operator-of-336m-bitcoin-mixing-service                                    
-https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-report                                                                                                 
+https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-report                                        
+https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730               
+
                                                               
 Etereum Mixers                                                           
 https://www.coindesk.com/hacker-drains-defi-liquidity-balancer                                                        
