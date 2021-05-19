@@ -101,7 +101,11 @@ https://hackernoon.com/hacking-a-blockchain-vs-hacking-a-dapp-a-response-to-mike
 Virtual Kidnapping                                                                                                          
 https://edition.cnn.com/2019/05/15/tech/virtual-kidnapping/index.html?utm_source=digg&utm_medium=email                         
 
-
+                                                                                                                
+                                                                                                                      
+                                                                                                                      
+RANSOMEWARE                                                                                                              
+https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/ 
 CryptON Ransomware Installed Using Hacked Remote Desktop Services
 https://www.bleepingcomputer.com/news/security/crypton-ransomware-installed-using-hacked-remote-desktop-services/
 
@@ -172,7 +176,10 @@ Shade Ransomeware
 https://threatpost.com/shade-ransomware-expands-us/145020/
 
 Scranos Malware                                                                                                              
-https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/            
+https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/                 
+
+
+
                                                                                                                             
 Botnets                                                                                                                            
 Smominru Botnet MyKings (alternatively as DarkCloud or Smominru pt Hexmen)                                                               
@@ -486,7 +493,8 @@ https://news.bitcoin.com/john-mcafee-announces-privacy-coin-airdrop-today/
 https://mcafeedex.com/#/erc20                                                                                                  
 https://www.coindesk.com/us-officials-arrest-alleged-operator-of-336m-bitcoin-mixing-service                                    
 https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-report                                        
-https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730               
+https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730                  
+https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                      
 
                                                               
 Etereum Mixers                                                           
@@ -510,7 +518,8 @@ https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-a
 
 Darknet Ecommerce, Hydra, Empire Market Bypass Shop, etc.                                                                     
 https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                              
-https://assets.ctfassets.net/kisruz03w7zs/1Mg3NZrElrcbkGZdYhsgql/0f5798852c0ab67b950252ee410eac16/Nethone_-_Brief_history_of_the_biggest_Eng_and_Rus_DNMs.pdf                                                                             
+https://assets.ctfassets.net/kisruz03w7zs/1Mg3NZrElrcbkGZdYhsgql/0f5798852c0ab67b950252ee410eac16/Nethone_-_Brief_history_of_the_biggest_Eng_and_Rus_DNMs.pdf                                                                           
+https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                        
 
                                                                                                                                 
                                                                                                                                 
