@@ -493,8 +493,10 @@ https://news.bitcoin.com/john-mcafee-announces-privacy-coin-airdrop-today/
 https://mcafeedex.com/#/erc20                                                                                                  
 https://www.coindesk.com/us-officials-arrest-alleged-operator-of-336m-bitcoin-mixing-service                                    
 https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-report                                        
-https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730                  
+https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730               
+https://www.elliptic.co/blog/bitcoin-money-laundering                                                                                 
 https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                      
+
 
                                                               
 Etereum Mixers                                                           
