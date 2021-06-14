@@ -307,8 +307,26 @@ https://www.the-blockchain.com/2020/03/13/two-chinese-nationals-charged-with-hac
 Inside Iran's Hacker Army                                                                                                   
 Holmium Group / APT33 Group
 https://www.marketscreener.com/MICROSOFT-CORPORATION-4835/news/Microsoft-Iranian-Hackers-Have-Hit-Hundreds-of-Companies-in-Past-Two-Years-2nd-Update-28123238/                                                                                                       
+                                                                                                                                                         
+                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                       
+Inside Russia's Hacker Army                                                                                                                                 
+https://www.bloomberg.com/news/articles/2021-06-11/russian-hackers-thrive-as-putin-prepares-to-meet-with-u-s-president-biden                                   
+APT28 / Russia's 'Fancy Bear' Hackers                                                                                                  
+ https://www.wired.com/story/fancy-bear-hotel-hack/                                                                                                          
+ Russia's Evil Corp  /  Using Dridex malware (Also known as Bugat / Cridex)                                                                              
+ https://www.bloomberg.com/news/articles/2019-12-05/u-s-sanctions-evil-corp-blamed-for-100-million-cyber-theft                              
+
+Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
+https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
+https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk                                                         
+https://www.bloomberg.com/news/articles/2020-11-13/a-russian-cyber-guru-finds-ways-to-distance-company-from-kremlin?srnd=premium-europe  
 
 
+ 
+ 
+                                                                                                                                                                      
+                                                                                                                                                              
 FIN7 Hacker group (Also known to others as Cobalt Strike or Carbanak)
 https://darkwebnews.com/hacking/researchers-claim-hacking-group-fin7-still-on-loose/
 https://www.wired.com/story/fin7-carbanak-hacking-group-behind-a-string-of-big-breaches/
@@ -405,13 +423,6 @@ https://coinfomania.com/missing-11-million-iota-tokens-recovered-report/?fbclid=
  https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1     
  https://twitter.com/shadowbrokerss                                                                                                
  https://steemit.com/shadowbrokers/@theshadowbrokers/theshadowbrokers-monthly-dump-service-july-2017
- 
- APT28 / Russia's 'Fancy Bear' Hackers                                                                                                  
- https://www.wired.com/story/fancy-bear-hotel-hack/                                                                             
-                                                                                                                             
-                                                                                                                             
- Russia's Evil Corp  /  Using Dridex malware (Also known as Bugat / Cridex)                                                                                                               
- https://www.bloomberg.com/news/articles/2019-12-05/u-s-sanctions-evil-corp-blamed-for-100-million-cyber-theft               
  
  
  
@@ -525,11 +536,6 @@ https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/
 
                                                                                                                                 
                                                                                                                                 
-Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
-https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
-https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk                                                         
-https://www.bloomberg.com/news/articles/2020-11-13/a-russian-cyber-guru-finds-ways-to-distance-company-from-kremlin?srnd=premium-europe  
-
 
 
 Forums
