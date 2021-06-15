@@ -321,10 +321,14 @@ Stateown Intelligence Agencies:                                                 
 https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
 https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk                                                         
 https://www.bloomberg.com/news/articles/2020-11-13/a-russian-cyber-guru-finds-ways-to-distance-company-from-kremlin?srnd=premium-europe  
-
+https://portswigger.net/daily-swig/who-is-behind-apt29-what-we-know-about-this-nation-state-cybercrime-group        
 
  
- 
+                                                                                                              
+                                                                                                              
+Inside China's Hacker Army                                                                                            
+https://portswigger.net/daily-swig/behind-the-great-firewall-chinese-cyber-espionage-adapts-to-post-covid-world-with-stealthier-attacks 
+
                                                                                                                                                                       
                                                                                                                                                               
 FIN7 Hacker group (Also known to others as Cobalt Strike or Carbanak)
