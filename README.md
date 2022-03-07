@@ -316,7 +316,10 @@ APT28 / Russia's 'Fancy Bear' Hackers
  https://www.wired.com/story/fancy-bear-hotel-hack/                                                                                                          
  Russia's Evil Corp  /  Using Dridex malware (Also known as Bugat / Cridex)                                                                              
  https://www.bloomberg.com/news/articles/2019-12-05/u-s-sanctions-evil-corp-blamed-for-100-million-cyber-theft                              
-
+                                                                                                                                      
+ https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
+                                                                                                                                    
+                                                                                                                                                                                                             
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
 https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
 https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk                                                         
