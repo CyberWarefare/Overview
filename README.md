@@ -322,7 +322,11 @@ https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-rep
  https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021/                                        
  https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
                                                                                                                                     
-                                                                                                                                                                                                             
+Lurk Group                                                                                                         
+https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html                                       
+                                                                                                                 
+                                                                                                                 
+                                                                                                                 
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
 https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
 https://wearechange.org/10-things-you-didnt-know-about-the-cia-before-yesterday/?fbclid=IwAR0QMLBXXE6vbBAC5HEaZMnYskb5Ydfc4oGsrT_AOMgfJvQeARcMmF8tzyk                                                         
