@@ -332,7 +332,11 @@ Hydra
 https://www.elliptic.co/blog/5-billion-darknet-market-hydra-seized-by-german-authorities                      
 https://www.wired.com/story/hydra-market-shutdown/                                                               
                                                                                                                  
-                                                                                                                 
+                                     
+DeSnake / AlphaBay                                   
+https://www.wired.com/story/alphabay-desnake-dark-web-interview/                                                  
+                                                                                                         
+                                                                                                         
                                                                                                                  
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
 https://www.cryptoknowmics.com/news/bbc-russian-service-450-million-worth-of-bitcoin-connected-to-russia                       
