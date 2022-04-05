@@ -323,7 +323,14 @@ https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-rep
  https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
                                                                                                                                     
 Lurk Group                                                                                                         
-https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html                                       
+https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html            
+                                                                                                                       
+                                                                                                                     
+                                                                                                                     
+
+Hydra                                                                                                            
+https://www.elliptic.co/blog/5-billion-darknet-market-hydra-seized-by-german-authorities                      
+https://www.wired.com/story/hydra-market-shutdown/                                                               
                                                                                                                  
                                                                                                                  
                                                                                                                  
