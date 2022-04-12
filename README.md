@@ -433,7 +433,7 @@ https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/
 https://thehackernews.com/2019/09/smominru-botnet.html                                                               
                                                         
 
-Malware that mines the privacy-focused open source cryptocurrency turtlecoin (TRTL)                                                       https://cointelegraph.com/news/researchers-say-50-000-servers-worldwide-infected-with-privacy-coin-cryptojacking-malware               
+Malware that mines the privacy-focused open source cryptocurrency turtlecoin (TRTL)           https://cointelegraph.com/news/researchers-say-50-000-servers-worldwide-infected-with-privacy-coin-cryptojacking-malware               
 
 
 IOTA
@@ -499,7 +499,7 @@ https://valid.network/post/financially-exploiting-the-blockchain-with-frontrunni
                                                                                                                    
 Bridges                                                                                     
 https://cointelegraph.com/news/the-aftermath-of-axie-infinity-s-650m-ronin-bridge-hack                          
-                                                                                                     
+https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge                                                       
                                                                                                      
                                                                                                                
 Website hijacking                                                                                                       
