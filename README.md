@@ -494,8 +494,13 @@ https://medium.com/@info_85454/idax-pro-scammed-crypto-projects-for-up-to-5-000-
 https://www.rollingstone.com/culture/culture-news/the-rise-and-fall-of-a-bitcoin-kingpin-43198/                              
 https://cointelegraph.com/news/researchers-claim-crypto-exchange-hacks-happen-in-three-ways                                        
 https://cointelegraph.com/news/kucoin-hack-unpacked-more-crypto-possibly-stolen-than-first-feared                              
-https://valid.network/post/financially-exploiting-the-blockchain-with-frontrunning?utm_source=social&utm_medium=share&utm_campaign=blog
-                                                                                                                        
+https://valid.network/post/financially-exploiting-the-blockchain-with-frontrunning?utm_source=social&utm_medium=share&utm_campaign=blog                                                   
+                                                                                                               
+                                                                                                                   
+Bridges                                                                                     
+https://cointelegraph.com/news/the-aftermath-of-axie-infinity-s-650m-ronin-bridge-hack                          
+                                                                                                     
+                                                                                                     
                                                                                                                
 Website hijacking                                                                                                       
 https://www.wired.com/2016/10/anonymous-notorious-hacker-back-hes-gone-legit/#intcid=recommendations_wired-homepage-right-rail_b25757e7-e0bf-40bc-a95d-aeb6f786c6e6_popular4-1                                                                                            
