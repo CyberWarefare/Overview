@@ -321,7 +321,8 @@ https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-rep
  
  https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021/                                        
  https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
-                                                                                                                                    
+                                                                                                                   
+                                                                                                                   
 Lurk Group                                                                                                         
 https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html            
                                                                                                                        
@@ -345,7 +346,10 @@ https://www.bloomberg.com/news/articles/2020-11-13/a-russian-cyber-guru-finds-wa
 https://portswigger.net/daily-swig/who-is-behind-apt29-what-we-know-about-this-nation-state-cybercrime-group        
 
  
-                                                                                                              
+ Sandworm may be best known for the NotPetya ransomware attack 
+ https://techcrunch.com/2022/04/27/state-sandworm-russian-hackers-ukraine/                                            
+ 
+                                                                                                                    
                                                                                                               
 Inside China's Hacker Army                                                                                            
 https://portswigger.net/daily-swig/behind-the-great-firewall-chinese-cyber-espionage-adapts-to-post-covid-world-with-stealthier-attacks 
