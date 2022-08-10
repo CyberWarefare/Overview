@@ -292,16 +292,16 @@ GameOver ZeuS Botnet / Evgeniy Bogachev - one of the most successful hackers
 http://nautil.us/issue/66/clockwork/the-100-million-bot-heist?utm_source=digg&utm_medium=email
 
 
-Inside North Korea’s Hacker Army (Lazarus Hacker Group)                                                                                  
-https://www.bloomberg.com/news/features/2018-02-07/inside-kim-jong-un-s-hacker-army                                                
+Inside North Korea’s Hacker Army (Lazarus Hacker Group)                                                                         
+https://www.bloomberg.com/news/features/2018-02-07/inside-kim-jong-un-s-hacker-army                                             
 https://coinidol.com/north-korean-lazarus/   
 https://thehackernews.com/2019/05/north-korean-hacking-tool.html                                                              
 https://www.wired.com/story/how-north-korea-robs-banks-around-world/                                                          
 https://www.wsj.com/articles/north-korea-is-suspected-in-bitcoin-heist-1522303177
 https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/                                                  
-https://tokenhell.com/us-authority-charged-two-chinese-officials-with-laundering-cryptocurrency-worth-100m/                      
-https://www.the-blockchain.com/2020/03/13/two-chinese-nationals-charged-with-hacking-cryptocurrency-exchange-and-laundering-over-100-million-in-cryptocurrency/                                                                                                        
-
+https://tokenhell.com/us-authority-charged-two-chinese-officials-with-laundering-cryptocurrency-worth-100m/                     
+https://www.the-blockchain.com/2020/03/13/two-chinese-nationals-charged-with-hacking-cryptocurrency-exchange-and-laundering-over-100-million-in-cryptocurrency/                                                                                            
+https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge 
 
 
 Inside Iran's Hacker Army                                                                                                   
@@ -310,17 +310,16 @@ https://www.marketscreener.com/MICROSOFT-CORPORATION-4835/news/Microsoft-Iranian
                                                                                                                                                          
                                                                                                                                                             
                                                                                                                                                                                                                                                                                                        
-Inside Russia's Hacker Army                                                                                                                                 
-https://www.bloomberg.com/news/articles/2021-06-11/russian-hackers-thrive-as-putin-prepares-to-meet-with-u-s-president-biden                                   
-APT28 / Russia's 'Fancy Bear' Hackers                                                                                                  
- https://www.wired.com/story/fancy-bear-hotel-hack/                                                                                                          
- Russia's Evil Corp  /  Using Dridex malware (Also known as Bugat / Cridex)                                                                              
- https://www.bloomberg.com/news/articles/2019-12-05/u-s-sanctions-evil-corp-blamed-for-100-million-cyber-theft                    
-https://blog.chainalysis.com/reports/ofac-sanction-suex-september-2021/                                                                                                                                                                                                                                                                                                        
-https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-report-2021-preview/                                    
- 
- https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021/                                        
- https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
+Inside Russia's Hacker Army                                                                                                    
+https://www.bloomberg.com/news/articles/2021-06-11/russian-hackers-thrive-as-putin-prepares-to-meet-with-u-s-president-biden   
+APT28 / Russia's 'Fancy Bear' Hackers                                                                                           
+ https://www.wired.com/story/fancy-bear-hotel-hack/                                                                            
+ Russia's Evil Corp  /  Using Dridex malware (Also known as Bugat / Cridex)                                                     
+ https://www.bloomberg.com/news/articles/2019-12-05/u-s-sanctions-evil-corp-blamed-for-100-million-cyber-theft                 
+https://blog.chainalysis.com/reports/ofac-sanction-suex-september-2021/                                                     
+https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-report-2021-preview/                        
+https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021/                                    
+https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
                                                                                                                    
                                                                                                                    
 Lurk Group                                                                                                         
@@ -387,7 +386,7 @@ New Advanced Malware Targeting Windows Computers Available on the Dark Web
 https://darkwebnews.com/hacking/malware-targeting-windows-computers/   
 
 
-New Trends                                                                                                                               https://bitcoinmagazine.com/articles/2019-saw-most-exchange-attacks-ever-with-hackers-becoming-more-savvy     
+New Trends                                                                                                                      https://bitcoinmagazine.com/articles/2019-saw-most-exchange-attacks-ever-with-hackers-becoming-more-savvy     
 https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
 Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                          
 https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe     
@@ -501,10 +500,10 @@ https://cointelegraph.com/news/kucoin-hack-unpacked-more-crypto-possibly-stolen-
 https://valid.network/post/financially-exploiting-the-blockchain-with-frontrunning?utm_source=social&utm_medium=share&utm_campaign=blog                                                   
                                                                                                                
                                                                                                                    
-Bridges                                                                                     
+Bridges  - also works as mixing services                                                                                   
 https://cointelegraph.com/news/the-aftermath-of-axie-infinity-s-650m-ronin-bridge-hack                          
-https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge                                                       
-                                                                                                     
+https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge                                                     
+https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                                                                                  
                                                                                                                
 Website hijacking                                                                                                       
 https://www.wired.com/2016/10/anonymous-notorious-hacker-back-hes-gone-legit/#intcid=recommendations_wired-homepage-right-rail_b25757e7-e0bf-40bc-a95d-aeb6f786c6e6_popular4-1                                                                                            
