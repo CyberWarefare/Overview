@@ -500,10 +500,7 @@ https://cointelegraph.com/news/kucoin-hack-unpacked-more-crypto-possibly-stolen-
 https://valid.network/post/financially-exploiting-the-blockchain-with-frontrunning?utm_source=social&utm_medium=share&utm_campaign=blog                                                   
                                                                                                                
                                                                                                                    
-Bridges  - also works as mixing services                                                                                   
-https://cointelegraph.com/news/the-aftermath-of-axie-infinity-s-650m-ronin-bridge-hack                          
-https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge                                                     
-https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                                                                                  
+
                                                                                                                
 Website hijacking                                                                                                       
 https://www.wired.com/2016/10/anonymous-notorious-hacker-back-hes-gone-legit/#intcid=recommendations_wired-homepage-right-rail_b25757e7-e0bf-40bc-a95d-aeb6f786c6e6_popular4-1                                                                                            
@@ -515,7 +512,11 @@ https://news.8btc.com/crypto-wallet-plustoken-a-3-billion-ponzi-scheme-went-bust
 https://news.8btc.com/just-vanished-wallet-tokenstore-sued-by-2100-victims                                                     
 
 
-
+Bridges  - also works as mixing services                                                                                   
+https://cointelegraph.com/news/the-aftermath-of-axie-infinity-s-650m-ronin-bridge-hack                          
+https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge                                                     
+https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                     
+                                                                                                          
                                                                                                        
 Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin anonymous?                                              
 https://bitcoinmagazine.com/guides/bitcoin-anonymous                                                              
