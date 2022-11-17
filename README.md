@@ -334,7 +334,8 @@ https://www.wired.com/story/hydra-market-shutdown/
                                                                                                                  
                                      
 DeSnake / AlphaBay                                   
-https://www.wired.com/story/alphabay-desnake-dark-web-interview/                                                  
+https://www.wired.com/story/alphabay-desnake-dark-web-interview/                                
+https://www.wired.com/story/alphabay-series-part-3-alpha-male/                                                        
                                                                                                          
                                                                                                          
                                                                                                                  
