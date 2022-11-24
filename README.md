@@ -519,8 +519,9 @@ https://news.8btc.com/just-vanished-wallet-tokenstore-sued-by-2100-victims
 Bridges  - also works as mixing services                                                                                   
 https://cointelegraph.com/news/the-aftermath-of-axie-infinity-s-650m-ronin-bridge-hack                          
 https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge                                                     
-https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                     
-                                                                                                          
+https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                                   
+Ren Bridge
+https://www.coindesk.com/business/2022/02/23/ren-labs-raises-75m-for-catalog-cross-chain-exchange/                                                                                                         
                                                                                                        
 Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin anonymous?                                              
 https://bitcoinmagazine.com/guides/bitcoin-anonymous                                                              
@@ -553,13 +554,15 @@ https://www.coindesk.com/hacker-drains-defi-liquidity-balancer
 https://medium.com/@tornado.cash/introducing-private-transactions-on-ethereum-now-42ee915babe0                           
 https://medium.com/@tornado.cash/how-to-stay-anonymous-with-tornado-cash-and-similar-solutions-efdecdbd7d37                   
 https://uniswap.info/home                                                                                                    
+RenBTC is wrapped Bitcoin. Hackers will swap ETH for renBTC, then unwrap the asset on the native Bitcoin blockchain.       
+https://weissratings.com/en/weiss-crypto-daily/ftx-account-drainer-puts-sell-pressure-on-eth                                    
+
 
 
 Mixing to crypto to USD                                                                                                  
 https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                               
 
-RenBTC is wrapped Bitcoin. Hackers will swap ETH for renBTC, then unwrap the asset on the native Bitcoin blockchain.       
-https://weissratings.com/en/weiss-crypto-daily/ftx-account-drainer-puts-sell-pressure-on-eth                                                                                                                                                      
+                                                                                                                  
                                                                                                                                  
 
 Telegram
