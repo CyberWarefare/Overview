@@ -556,8 +556,10 @@ https://uniswap.info/home
 
 
 Mixing to crypto to USD                                                                                                  
-https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                                      
-                                                                                                                                 
+https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                               
+
+RenBTC is wrapped Bitcoin. Hackers will swap ETH for renBTC, then unwrap the asset on the native Bitcoin blockchain.       
+https://weissratings.com/en/weiss-crypto-daily/ftx-account-drainer-puts-sell-pressure-on-eth                                                                                                                                                      
                                                                                                                                  
 
 Telegram
