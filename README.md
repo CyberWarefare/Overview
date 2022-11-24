@@ -178,9 +178,12 @@ https://threatpost.com/shade-ransomware-expands-us/145020/
 Scranos Malware                                                                                                              
 https://www.zdnet.com/article/this-data-stealing-malware-has-returned-with-new-attacks-and-nasty-upgraded-features/                 
 
-
-
+Zeppelin ransomware                                                                                                             
+https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/ 
                                                                                                                             
+
+
+
 Botnets                                                                                                                            
 Smominru Botnet MyKings (alternatively as DarkCloud or Smominru pt Hexmen)                                                               
 https://thehackernews.com/2019/09/smominru-botnet.html
