@@ -329,17 +329,26 @@ Lurk Group
 https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html            
                                                                                                                        
                                                                                                                      
-                                                                                                                     
+              
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+DARKNET MARKETS   Darknet Ecommerce, Hydra, Empire Market Bypass Shop, etc. 
 
 Hydra                                                                                                            
 https://www.elliptic.co/blog/5-billion-darknet-market-hydra-seized-by-german-authorities                      
-https://www.wired.com/story/hydra-market-shutdown/                                                               
+https://www.wired.com/story/hydra-market-shutdown/                                                        
+https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                              
                                                                                                                  
                                      
 DeSnake / AlphaBay                                   
-https://www.wired.com/story/alphabay-desnake-dark-web-interview/                                
+https://www.wired.com/story/alphabay-desnake-dark-web-interview/                                                        
+https://www.wired.com/story/alphabay-series-part-2-pimp-alex-91/                                                            
 https://www.wired.com/story/alphabay-series-part-3-alpha-male/                                                        
-https://www.wired.com/story/alphabay-series-part-4-face-to-face/                                                                                             
+https://www.wired.com/story/alphabay-series-part-4-face-to-face/                                                         
+https://www.wired.com/story/alphabay-series-part-5-takedown/                                                               
+https://www.wired.com/story/alphabay-series-part-6-endgame/                                                             
+
                                                                                                          
                                                                                                                  
 Stateown Intelligence Agencies:                                                                                                           Russian Intelligence Agency, Federal Security Bureau (FSB)                                                                       
@@ -397,7 +406,8 @@ https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-be
 
 https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html                 
 https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-cryptocurrency/  
-https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency 
+https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency                        
+
 
 Pirate Bay mining Monero
 https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner-make/
@@ -523,6 +533,7 @@ https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge
 Ren Bridge
 https://www.coindesk.com/business/2022/02/23/ren-labs-raises-75m-for-catalog-cross-chain-exchange/                                                                                                         
                                                                                                        
+                                                                                                       
 Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin anonymous?                                              
 https://bitcoinmagazine.com/guides/bitcoin-anonymous                                                              
 https://bitcoinmagazine.com/articles/better-bitcoin-privacy-scalability-developers-are-making-tumblebit-reality/            
@@ -566,14 +577,14 @@ https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/
                                                                                                                                  
 
 Telegram
-https://gbhackers.com/masad-stealer/                                                                                         
+https://gbhackers.com/masad-stealer/                                                                                     
+
 
 Cybersecurity firms
 https://www.newyorker.com/magazine/2019/11/04/a-cybersecurity-firms-sharp-rise-and-stunning-collapse?utm_source=digg&utm_medium=email
 
 
-Darknet Ecommerce, Hydra, Empire Market Bypass Shop, etc.                                                                     
-https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                              
+
 https://assets.ctfassets.net/kisruz03w7zs/1Mg3NZrElrcbkGZdYhsgql/0f5798852c0ab67b950252ee410eac16/Nethone_-_Brief_history_of_the_biggest_Eng_and_Rus_DNMs.pdf                                                                           
 https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                        
 
