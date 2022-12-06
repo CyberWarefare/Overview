@@ -381,8 +381,12 @@ https://portswigger.net/daily-swig/who-is-behind-apt29-what-we-know-about-this-n
 Inside China's Hacker Army                                                                                            
 https://portswigger.net/daily-swig/behind-the-great-firewall-chinese-cyber-espionage-adapts-to-post-covid-world-with-stealthier-attacks 
 
-                                                                                                                                                                      
-                                                                                                                                                              
+                                                                                                                              
+                                                                                                                    
+Cubas's Hacker Army 
+https://www.infosecurity-magazine.com/news/cuba-ransomware-actors-pocket-60m/
+
+
 FIN7 Hacker group (Also known to others as Cobalt Strike or Carbanak)
 https://darkwebnews.com/hacking/researchers-claim-hacking-group-fin7-still-on-loose/
 https://www.wired.com/story/fin7-carbanak-hacking-group-behind-a-string-of-big-breaches/
@@ -424,8 +428,8 @@ Crypto Illegal Mining Beating Ransomware as Top Cyber Threat
 https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe     
 https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html        
 https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-cryptocurrency/  
-https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency                           
-Threat Actors Use Malicious File Systems to Scale Crypto-Mining Operations                                             
+https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency                                         
+https://www.infosecurity-magazine.com/news/hackers-malicious-file-systems/                                           
 
 Mining on other peoples computer - pirate Bay, mining Monero
 https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner-make/
