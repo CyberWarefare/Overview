@@ -338,9 +338,11 @@ DARKNET MARKETS   Darknet Ecommerce, Hydra, Empire Market Bypass Shop, etc.
 Hydra                                                                                                            
 https://www.elliptic.co/blog/5-billion-darknet-market-hydra-seized-by-german-authorities                      
 https://www.wired.com/story/hydra-market-shutdown/                                                        
-https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                              
-                                                                                                                 
-                                     
+https://medium.com/@Nethone_/russian-darknet-market-hydra-is-expanding-whats-the-threat-d0613d34a358                           
+https://portswigger.net/daily-swig/authorities-seize-hydra-servers-in-bust-against-darknet-cybercrime-marketplace          
+
+
+                                                                                                                     
 DeSnake / AlphaBay                                   
 https://www.wired.com/story/alphabay-desnake-dark-web-interview/                                                        
 https://www.wired.com/story/alphabay-series-part-2-pimp-alex-91/                                                            
