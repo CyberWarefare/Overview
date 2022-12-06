@@ -322,9 +322,21 @@ APT28 / Russia's 'Fancy Bear' Hackers
 https://blog.chainalysis.com/reports/ofac-sanction-suex-september-2021/                                                     
 https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-report-2021-preview/                        
 https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021/                                    
-https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                                  
+https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-russia-ransomware-money-laundering/?fbclid=IwAR08fTQ64VEqYnDBraTRx5q-Yv5p7tcHGGLGWW3IF3sQIfQpGaFoM8uKTOY                                                          
                                                                                                                    
-                                                                                                                   
+      
+
+Inside Indias Hacker Army                                                                                            
+https://portswigger.net/daily-swig/indian-cyber-espionage-activity-rising-amid-growing-rivalry-with-china-pakistan      
+      
+      
+      
+Inside Chinas Hacker Army                                                                                         
+ https://portswigger.net/daily-swig/behind-the-great-firewall-chinese-cyber-espionage-adapts-to-post-covid-world-with-stealthier-attacks     
+  
+  
+  
+
 Lurk Group                                                                                                         
 https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html            
                                                                                                                        
