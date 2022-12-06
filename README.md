@@ -416,18 +416,23 @@ https://darkwebnews.com/hacking/malware-targeting-windows-computers/
 
 New Trends                                                                                                                      https://bitcoinmagazine.com/articles/2019-saw-most-exchange-attacks-ever-with-hackers-becoming-more-savvy     
 https://bitcoinmagazine.com/articles/cryptomining-attacks-remain-one-of-the-nastiest-malware-threats-of-2019
-Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                          
+
+
+
+MINING ON OTHER PEOPLES COMPUTOR
+Crypto Illegal Mining Beating Ransomware as Top Cyber Threat                                                                  
 https://www.bloomberg.com/news/articles/2018-12-14/crypto-illegal-mining-seen-beating-ransomware-as-cyber-threat?srnd=premium-europe     
-
-https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html                 
+https://www.csoonline.com/article/3253572/internet/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html        
 https://www.zdnet.com/article/a-giant-botnet-is-forcing-windows-servers-to-mine-cryptocurrency/  
-https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency                        
+https://www.siliconrepublic.com/enterprise/wannamine-smominru-botnets-cryptocurrency                           
+Threat Actors Use Malicious File Systems to Scale Crypto-Mining Operations                                             
 
-
-Pirate Bay mining Monero
+Mining on other peoples computer - pirate Bay, mining Monero
 https://www.zdnet.com/article/how-much-does-the-pirate-bays-cryptocurrency-miner-make/
 https://steemit.com/news/@runicar/pirate-mining-cryptojacking-your-cpu-to-mine-crypto-is-your-pc-under-attack-soultions-how-to-stop-it  
-https://hackernoon.com/how-to-block-hackers-from-mining-cryptocurrency-on-your-computer-and-smartphones-c0c485b6eae6                
+https://hackernoon.com/how-to-block-hackers-from-mining-cryptocurrency-on-your-computer-and-smartphones-c0c485b6eae6          
+ 
+
 
                                                                         
 Private Surveillance Is a Lethal Weapon Anybody Can Buy                                                                      
