@@ -603,7 +603,9 @@ https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/
                                                                                                                                  
 
 Telegram
-https://gbhackers.com/masad-stealer/                                                                                     
+https://gbhackers.com/masad-stealer/                                                                            
+https://www.coindesk.com/business/2022/12/07/attacker-targets-wealthy-crypto-funds-using-telegram-chats/              
+
 
 
 Cybersecurity firms
