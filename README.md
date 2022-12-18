@@ -634,8 +634,9 @@ LOST YOUR BITCOIN? HERE IS HOW YOU CAN RECOVER IT
 https://bitcoinist.com/lost-your-bitcoin-here-is-how-you-can-recover-it/                                                    
 
 
-
-
+Surveilence / monitoring transactions
+SHADOWY US SPY FIRM PROMISES TO SURVEIL CRYPTO USERS FOR THE HIGHEST BIDDER  
+https://www.mintpressnews.com/anomaly-6-surveil-crypto-users-highest-bidder/283036/ 
 
 
 
