@@ -306,7 +306,9 @@ https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/
 https://tokenhell.com/us-authority-charged-two-chinese-officials-with-laundering-cryptocurrency-worth-100m/                     
 https://www.the-blockchain.com/2020/03/13/two-chinese-nationals-charged-with-hacking-cryptocurrency-exchange-and-laundering-over-100-million-in-cryptocurrency/                                                                                            
 https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                              
-https://www.infosecurity-magazine.com/news/lazarus-dtrack-target-europe-and/ 
+https://www.infosecurity-magazine.com/news/lazarus-dtrack-target-europe-and/                                           
+Lazarus Group Poses as VC Firms to Spread Malware 
+https://decrypt.co/118031/north-korea-linked-lazarus-group-poses-as-vc-firms-to-spread-malware                  
 
 
 Inside Iran's Hacker Army                                                                                                   
