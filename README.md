@@ -478,6 +478,10 @@ https://bitfinexed.medium.com/bitfinex-and-tether-is-unauditable-why-they-will-n
 https://bitfinexed.medium.com/understanding-bogus-usd-crypto-currency-volume-why-you-should-disregard-fakeusd-prices-and-c0933c72e3e5                                                                                                              
 https://bitfinexed.medium.com/spoiler-alert-the-institution-buying-tethers-is-bitfinex-themselves-f56af29ce60c            
 https://bitfinexed.medium.com/bitfinex-never-repaid-their-tokens-bitfinex-started-a-ponzi-scheme-86a9291add29         
+https://bitfinexed.medium.com/fake-it-till-you-make-it-when-bitfinex-themselves-used-to-spoof-their-entire-orderbook-18294585338                                                                                                             
+https://bitfinexed.medium.com/wash-trading-bitcoin-part-ii-who-and-why-is-someone-wash-trading-on-bitfinex-e1c7b5e0b3bb   
+https://medium.com/hackernoon/the-curious-tale-of-tethers-6b0031eead87
+https://medium.com/hackernoon/meet-spoofy-how-a-single-entity-dominates-the-price-of-bitcoin-39c711d28eb4             
 
 
 
