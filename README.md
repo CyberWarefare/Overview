@@ -482,6 +482,9 @@ https://bitfinexed.medium.com/fake-it-till-you-make-it-when-bitfinex-themselves-
 https://bitfinexed.medium.com/wash-trading-bitcoin-part-ii-who-and-why-is-someone-wash-trading-on-bitfinex-e1c7b5e0b3bb   
 https://medium.com/hackernoon/the-curious-tale-of-tethers-6b0031eead87
 https://medium.com/hackernoon/meet-spoofy-how-a-single-entity-dominates-the-price-of-bitcoin-39c711d28eb4             
+https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html                                             
+https://www.forbes.com/sites/stevenehrlich/2022/12/21/inside-tether-cryptos-so-far-unbreakable-buck/?sh=1e2a6e0173fa&fbclid=IwAR3mhXp76afQ2EX7Yj5l0tnjPtCfjybhbO1dqA3icP587EoKrSvG4Oy0cMg                                 
+
 
 
 
