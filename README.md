@@ -477,11 +477,13 @@ Tether
 https://bitfinexed.medium.com/bitfinex-and-tether-is-unauditable-why-they-will-never-do-a-real-audit-3324e002b185      
 https://bitfinexed.medium.com/understanding-bogus-usd-crypto-currency-volume-why-you-should-disregard-fakeusd-prices-and-c0933c72e3e5                                                                                                              
 https://bitfinexed.medium.com/spoiler-alert-the-institution-buying-tethers-is-bitfinex-themselves-f56af29ce60c            
+https://bitfinexed.medium.com/bitfinex-never-repaid-their-tokens-bitfinex-started-a-ponzi-scheme-86a9291add29         
+
 
 
 https://thehackernews.com/2019/09/smominru-botnet.html                                                               
                                                         
-
+   
 Malware that mines the privacy-focused open source cryptocurrency turtlecoin (TRTL)           https://cointelegraph.com/news/researchers-say-50-000-servers-worldwide-infected-with-privacy-coin-cryptojacking-malware               
 
 
