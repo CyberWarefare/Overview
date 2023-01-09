@@ -653,7 +653,17 @@ https://bitcoinist.com/lost-your-bitcoin-here-is-how-you-can-recover-it/
 
 Surveilence / monitoring transactions
 SHADOWY US SPY FIRM PROMISES TO SURVEIL CRYPTO USERS FOR THE HIGHEST BIDDER  
-https://www.mintpressnews.com/anomaly-6-surveil-crypto-users-highest-bidder/283036/ 
+https://www.mintpressnews.com/anomaly-6-surveil-crypto-users-highest-bidder/283036/  
+
+
+
+Artificial Intelligence AI
+Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots. Cybercriminals have started using OpenAI’s artificially intelligent chatbot ChatGPT to quickly build hacking tools. Scammers are also testing ChatGPT’s ability to build other chatbots designed to impersonate young females to ensnare targets, one expert monitoring criminal forums told Forbes.
+https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?utm_medium=browser_notifications&utm_source=pushly&utm_campaign=2591994&sh=afb904f55349 
+
+
+
+
 
 
 
