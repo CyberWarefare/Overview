@@ -601,13 +601,7 @@ https://www.elliptic.co/blog/bitcoin-money-laundering
 https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                 
 https://cointelegraph.com/news/alameda-wallets-funnel-over-1-7m-via-crypto-mixers-overnight                    
 
-Tornado Cash
-https://blog.chainalysis.com/reports/tornado-cash-sanctions-challenges/                                               
-https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-github-takedown                         
-https://github.com/orgs/tornado-repositories/repositories?type=all                                                  
-
-
-
+                                    
                                                               
 Etereum Mixers                                                           
 https://www.coindesk.com/hacker-drains-defi-liquidity-balancer                                                        
@@ -615,7 +609,14 @@ https://medium.com/@tornado.cash/introducing-private-transactions-on-ethereum-no
 https://medium.com/@tornado.cash/how-to-stay-anonymous-with-tornado-cash-and-similar-solutions-efdecdbd7d37                   
 https://uniswap.info/home                                                                                                    
 RenBTC is wrapped Bitcoin. Hackers will swap ETH for renBTC, then unwrap the asset on the native Bitcoin blockchain.       
-https://weissratings.com/en/weiss-crypto-daily/ftx-account-drainer-puts-sell-pressure-on-eth                                    
+https://weissratings.com/en/weiss-crypto-daily/ftx-account-drainer-puts-sell-pressure-on-eth                          
+
+Tornado Cash
+https://blog.chainalysis.com/reports/tornado-cash-sanctions-challenges/                                               
+https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-github-takedown                         
+https://github.com/orgs/tornado-repositories/repositories?type=all                                                  
+https://archive.softwareheritage.org/browse/search/?q=tornadocash&with_visit=true&with_content=true                    
+
 
 
 
