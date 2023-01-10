@@ -603,7 +603,8 @@ https://cointelegraph.com/news/alameda-wallets-funnel-over-1-7m-via-crypto-mixer
 
 Tornado Cash
 https://blog.chainalysis.com/reports/tornado-cash-sanctions-challenges/                                               
-https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-github-takedown                           
+https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-github-takedown                         
+
 
                                                               
 Etereum Mixers                                                           
