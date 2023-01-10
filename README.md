@@ -576,7 +576,7 @@ Ren Bridge
 https://www.coindesk.com/business/2022/02/23/ren-labs-raises-75m-for-catalog-cross-chain-exchange/                                                                                                         
                                                                                                        
                                                                                                        
-Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit  / is bitcoin anonymous?                                              
+Mixing services like CoinJoin, CoinShuffle. TumbleBit, NTumbleBit, Tornado Cash                                                                                 
 https://bitcoinmagazine.com/guides/bitcoin-anonymous                                                              
 https://bitcoinmagazine.com/articles/better-bitcoin-privacy-scalability-developers-are-making-tumblebit-reality/            
 https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin                                       
@@ -599,8 +599,11 @@ https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-
 https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730               
 https://www.elliptic.co/blog/bitcoin-money-laundering                                                                                 
 https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                 
-https://cointelegraph.com/news/alameda-wallets-funnel-over-1-7m-via-crypto-mixers-overnight                       
+https://cointelegraph.com/news/alameda-wallets-funnel-over-1-7m-via-crypto-mixers-overnight                    
 
+Tornado Cash
+https://blog.chainalysis.com/reports/tornado-cash-sanctions-challenges/                                               
+https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-github-takedown                           
 
                                                               
 Etereum Mixers                                                           
