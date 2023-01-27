@@ -118,7 +118,8 @@ CryptoLocker Ransomware Information Guide and FAQ
 https://www.bleepingcomputer.com/virus-removal/cryptolocker-ransomware-information
 
 CryptorBit and HowDecrypt Information Guide and FAQ
-https://www.bleepingcomputer.com/virus-removal/cryptorbit-ransomware-information
+https://www.bleepingcomputer.com/virus-removal/cryptorbit-ransomware-information                                    
+
 
 CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
 https://www.bleepingcomputer.com/virus-removal/cryptodefense-ransomware-information
@@ -212,7 +213,13 @@ https://forums.juniper.net/t5/Threat-Research/Anatomy-of-the-Bulehero-Cryptomini
 
 
 Mokes" and "Netwire                                                                                                        
- https://cointelegraph.com/news/report-record-breaking-coincheck-hack-perpetrated-by-virus-tied-to-russian-hackers               
+ https://cointelegraph.com/news/report-record-breaking-coincheck-hack-perpetrated-by-virus-tied-to-russian-hackers     
+ 
+ 
+LockBit Ransomware Gang                                                                                             
+https://www.wired.co.uk/article/lockbit-ransomware-attacks                                                        
+
+
 
 MINING
 Beapy File based mining. Most lucrative mining strategy                                                                                  
