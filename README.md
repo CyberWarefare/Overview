@@ -606,8 +606,8 @@ https://www.coindesk.com/darknet-markets-are-mixing-bitcoins-at-blistering-pace-
 https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730               
 https://www.elliptic.co/blog/bitcoin-money-laundering                                                                                 
 https://dwealth.news/2021/05/colonial-pipeline-ransomware-bad-guys-unmasked/                                                 
-https://cointelegraph.com/news/alameda-wallets-funnel-over-1-7m-via-crypto-mixers-overnight                    
-
+https://cointelegraph.com/news/alameda-wallets-funnel-over-1-7m-via-crypto-mixers-overnight   
+https://www.forbes.com/sites/thomasbrewster/2023/03/15/us-shuts-down-crypto-mixer-chipmixer-used-by-russian-and-north-korea-spies/?utm_medium=browser_notifications&utm_source=pushly&utm_campaign=2780664&sh=54928aa35721 
                                     
                                                               
 Etereum Mixers                                                           
