@@ -632,8 +632,10 @@ https://tornadocash.sh/docs/general/how-to-use-tornado-cash-with-tor/
 https://tornadocash.sh/docs/how-does-tornado.cash-work/                                      
 https://github.com/tornadocash-community/docs/blob/en/general/how-to-use-tornado-cash-with-tor.md             
 https://tornadocash.gitbook.io/docs/generals/introduction-to-tornado-cash                                                
-                               
-                                                                                          
+https://nova.tornadocash.eth.link/              tornadocash on web3
+                          
+                                                                
+                                                                                                                                                             
 Mixing to crypto to USD                                                                                                  
 https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                               
 
