@@ -624,7 +624,7 @@ https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-gith
 https://github.com/orgs/tornado-repositories/repositories?type=all                                                  
 https://archive.softwareheritage.org/browse/search/?q=tornadocash&with_visit=true&with_content=true                       
 https://beincrypto.com/learn/tornado-cash/
-
+ https://www.coindesk.com/tech/2023/03/06/tornado-cash-fork-privacy-pools-deployed-on-optimism-testnet/ 
 
 
 Mixing to crypto to USD                                                                                                  
