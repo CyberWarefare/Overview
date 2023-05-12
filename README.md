@@ -628,7 +628,9 @@ https://www.coindesk.com/tech/2023/03/06/tornado-cash-fork-privacy-pools-deploye
 https://www.immunebytes.com/blog/what-is-tornado-cash-why-is-it-popular-with-hackers/                                        
 https://etherscan.io/address/0x910cbd523d972eb0a6f4cae4618ad62622b39dbf            contract                         
 https://blog.chainalysis.com/reports/tornado-cash-sanctions-challenges/#:~:text=The%20user%20can%20then%20either,0.05%25%20to%200.2%25%20fee.                                   
-
+https://tornadocash.sh/docs/general/how-to-use-tornado-cash-with-tor/                                                     
+                                                                                                                                                
+                                                                                                                                                                                                                                                                                      
 Mixing to crypto to USD                                                                                                  
 https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                               
 
