@@ -633,9 +633,11 @@ https://tornadocash.sh/docs/how-does-tornado.cash-work/
 https://github.com/tornadocash-community/docs/blob/en/general/how-to-use-tornado-cash-with-tor.md             
 https://tornadocash.gitbook.io/docs/generals/introduction-to-tornado-cash                                                
 https://nova.tornadocash.eth.link/              tornadocash on web3
-                          
-                                                                
-                                                                                                                                                             
+https://www.coindesk.com/tech/2022/01/25/tornado-cash-co-founder-says-the-mixer-protocol-is-unstoppable/                         
+https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/ethdev/comments/g0jehk/why_i_think_using_tornadocash_might_be_a_bad_idea/                                                                                                                 
+
+                                                                                   
+                                                                                   
 Mixing to crypto to USD                                                                                                  
 https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                               
 
