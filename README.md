@@ -623,8 +623,10 @@ https://blog.chainalysis.com/reports/tornado-cash-sanctions-challenges/
 https://decrypt.co/108159/professor-republishes-tornado-cash-code-following-github-takedown                         
 https://github.com/orgs/tornado-repositories/repositories?type=all                                                  
 https://archive.softwareheritage.org/browse/search/?q=tornadocash&with_visit=true&with_content=true                       
-https://beincrypto.com/learn/tornado-cash/
- https://www.coindesk.com/tech/2023/03/06/tornado-cash-fork-privacy-pools-deployed-on-optimism-testnet/ 
+https://beincrypto.com/learn/tornado-cash/                                                                                        
+https://www.coindesk.com/tech/2023/03/06/tornado-cash-fork-privacy-pools-deployed-on-optimism-testnet/                       
+https://www.immunebytes.com/blog/what-is-tornado-cash-why-is-it-popular-with-hackers/                                        
+
 
 
 Mixing to crypto to USD                                                                                                  
