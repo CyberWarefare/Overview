@@ -187,6 +187,7 @@ https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomw
                                                                                                           
 Turla                                                                                                                        
 https://www.wired.com/story/turla-history-russia-fsb-hackers/                                                           
+https://securelist.com/tomiris-called-they-want-their-turla-malware-back/109552/                                          
 
 
 
