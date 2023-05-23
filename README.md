@@ -183,6 +183,11 @@ Zeppelin ransomware
 https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/ 
                                                                                                                             
 
+                                                                                                          
+                                                                                                          
+Turla                                                                                                                        
+https://www.wired.com/story/turla-history-russia-fsb-hackers/                                                           
+
 
 
 Botnets                                                                                                                            
