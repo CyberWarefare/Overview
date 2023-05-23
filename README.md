@@ -189,7 +189,9 @@ Turla
 https://www.wired.com/story/turla-history-russia-fsb-hackers/                                                           
 https://securelist.com/tomiris-called-they-want-their-turla-malware-back/109552/                                          
 
-
+GoldenJackal APT group                                                                                                    
+https://securelist.com/goldenjackal-apt-group/109677/                                                                    
+                                                                                                                             
 
 Botnets                                                                                                                            
 Smominru Botnet MyKings (alternatively as DarkCloud or Smominru pt Hexmen)                                                               
@@ -321,7 +323,9 @@ https://www.the-blockchain.com/2020/03/13/two-chinese-nationals-charged-with-hac
 https://www.altfi.com/article/9685_more-than-540m-laundered-through-renbridge                                              
 https://www.infosecurity-magazine.com/news/lazarus-dtrack-target-europe-and/                                           
 Lazarus Group Poses as VC Firms to Spread Malware 
-https://decrypt.co/118031/north-korea-linked-lazarus-group-poses-as-vc-firms-to-spread-malware                  
+https://decrypt.co/118031/north-korea-linked-lazarus-group-poses-as-vc-firms-to-spread-malware                               
+https://securelist.com/the-lazarus-group-deathnote-campaign/109490/                                                 
+                                                                                                            
 
 
 Inside Iran's Hacker Army                                                                                                   
