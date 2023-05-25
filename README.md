@@ -577,6 +577,11 @@ https://valid.network/post/financially-exploiting-the-blockchain-with-frontrunni
                                                                                                                
                                                                                                                    
 
+
+DAO hacking                                                                                                              
+https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=c39325c7f589                                                                                                         
+                                                                                                                       
+                                                                                                                                                                                                                                                                 
                                                                                                                
 Website hijacking                                                                                                       
 https://www.wired.com/2016/10/anonymous-notorious-hacker-back-hes-gone-legit/#intcid=recommendations_wired-homepage-right-rail_b25757e7-e0bf-40bc-a95d-aeb6f786c6e6_popular4-1                                                                                            
