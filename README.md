@@ -226,6 +226,7 @@ Mokes" and "Netwire
  
 LockBit Ransomware Gang                                                                                             
 https://www.wired.co.uk/article/lockbit-ransomware-attacks                                                        
+https://www.chainalysis.com/blog/nca-ofac-sanctions-dmitry-khoroshev-lockbit-ransomware-2024/                                                                                                          
 
 
 
