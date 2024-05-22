@@ -711,7 +711,10 @@ https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-mal
 
 Darknet Exchanges for drugs, etc. using Tor                                                                                 
 https://bitcoinist.com/us-doj-100m-in-crypto-dark-web-drug-trafficking/                                                      
-
+https://www.justice.gov/opa/pr/incognito-market-owner-arrested-operating-one-largest-illegal-narcotics-marketplaces           
+                                                                                                                      
+                                                                                                                      
+                                                                                                                   
 
 
 
