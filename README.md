@@ -709,6 +709,9 @@ Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots. Cyberc
 https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?utm_medium=browser_notifications&utm_source=pushly&utm_campaign=2591994&sh=afb904f55349 
 
 
+Darknet Exchanges for drugs, etc. using Tor                                                                                 
+https://bitcoinist.com/us-doj-100m-in-crypto-dark-web-drug-trafficking/                                                      
+
 
 
 
