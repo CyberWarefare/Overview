@@ -661,7 +661,9 @@ https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/eth
  
                                                                                    
 Mixing to crypto to USD                                                                                                  
-https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                               
+https://www.southworld.net/mexico-of-the-cyber-narcos-cartels/                                                          
+Russian-Speaking Hackers Bag 70% Of Crypto Proceeds – Exchange that work
+https://bitcoinist.com/russian-speaking-hackers-bag-70-of-crypto-proceeds/                                                
 
                                                                                                                   
                                                                                                                                  
