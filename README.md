@@ -566,7 +566,9 @@ https://www.edureka.co/blog/deep-learning-with-python/
 https://www.cybersecurity-insiders.com/the-malware-of-the-future-will-be-independent-and-adaptable/                               
 https://www.rebellionresearch.com/blog/ai-security-with-adversarial-robustness-and-explainable-ai                            
 https://www.rebellionresearch.com/blog/ai-vs-fraud                                                                             
-https://portswigger.net/daily-swig/trojannet-a-simple-yet-effective-attack-on-machine-learning-models                            
+https://portswigger.net/daily-swig/trojannet-a-simple-yet-effective-attack-on-machine-learning-models                       
+Growing underground market for rogue AI sparks cyber-security concerns 
+https://www.straitstimes.com/singapore/growing-underground-market-for-rogue-ai-sparks-cyber-security-concerns 
 
 
 Hide Your IP address / Anonoumus DNS providers                                                                                           https://darkwebnews.com/anonymity/dns-providers-that-dont-log-queries/                                                    
