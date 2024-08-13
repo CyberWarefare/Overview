@@ -292,7 +292,10 @@ https://coinfomania.com/18-year-old-monacoin-theft-japan/?fbclid=IwAR3SW4HigAczk
 
 Phishing                                                                                                                       
 https://darknetlive.com/post/empire-phishing/                                                                              
-https://darknetlive.com/post/a-warning-about-darkweb-market-phishing-sites                                                       
+https://darknetlive.com/post/a-warning-about-darkweb-market-phishing-sites                                                        
+Weird ‘null address’ iVest hack, millions of PCs still vulnerable to ‘Sinkclose’ malware: Crypto-Sec
+https://cointelegraph.com/magazine/ivest-hacked-sinkclose-affects-amd-devices-usdt-phishing/                                       
+                                                                                                               
 
 
 Malware market - New market
